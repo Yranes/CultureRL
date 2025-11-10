@@ -1,0 +1,1922 @@
+[
+    {
+        "cluster_id": 0,
+        "name": "Work-Centrism vs. Life Balance/Skepticism",
+        "questions": [
+            {
+                "q_id": "Q32",
+                "question": "Do you agree that being a housewife is just as fulfilling as working for pay?",
+                "statements": {
+                    "IRQ": "I strongly agree that being a housewife is just as fulfilling as working for pay",
+                    "JOR": "I strongly agree that being a housewife is just as fulfilling as working for pay",
+                    "CHN": "I agree that being a housewife is just as fulfilling as working for pay",
+                    "USA": "I agree that being a housewife is just as fulfilling as working for pay",
+                    "BGD": "I agree that being a housewife is just as fulfilling as working for pay",
+                    "BRA": "I disagree that being a housewife is just as fulfilling as working for pay",
+                    "DEU": "I agree that being a housewife is just as fulfilling as working for pay",
+                    "KOR": "I disagree that being a housewife is just as fulfilling as working for pay",
+                    "MEX": "I agree that being a housewife is just as fulfilling as working for pay",
+                    "TUR": "I agree that being a housewife is just as fulfilling as working for pay",
+                    "ARG": "I agree that being a housewife is just as fulfilling as working for pay"
+                }
+            },
+            {
+                "q_id": "Q39",
+                "question": "Do you agree that people who don't work turn lazy?",
+                "statements": {
+                    "IRQ": "I strongly agree that people who don't work turn lazy",
+                    "JOR": "I strongly agree that people who don't work turn lazy",
+                    "CHN": "I agree that people who don't work turn lazy",
+                    "USA": "I agree that people who don't work turn lazy",
+                    "BGD": "I strongly agree that people who don't work turn lazy",
+                    "BRA": "I agree that people who don't work turn lazy",
+                    "DEU": "I agree that people who don't work turn lazy",
+                    "KOR": "I agree that people who don't work turn lazy",
+                    "MEX": "I strongly agree that people who don't work turn lazy",
+                    "TUR": "I agree that people who don't work turn lazy",
+                    "ARG": "I agree that people who don't work turn lazy"
+                }
+            },
+            {
+                "q_id": "Q40",
+                "question": "Do you agree that work is a duty towards society?",
+                "statements": {
+                    "IRQ": "I strongly agree that work is a duty towards society",
+                    "JOR": "I strongly agree that work is a duty towards society",
+                    "CHN": "I agree that work is a duty towards society",
+                    "USA": "I agree that work is a duty towards society",
+                    "BGD": "I strongly agree that work is a duty towards society",
+                    "BRA": "I agree that work is a duty towards society",
+                    "DEU": "I agree that work is a duty towards society",
+                    "KOR": "I agree that work is a duty towards society",
+                    "MEX": "I strongly agree that work is a duty towards society",
+                    "TUR": "I agree that work is a duty towards society",
+                    "ARG": "I agree that work is a duty towards society"
+                }
+            },
+            {
+                "q_id": "Q41",
+                "question": "Do you agree that work should always come first, even if it means less spare time?",
+                "statements": {
+                    "IRQ": "I strongly agree that work should always come first, even if it means less spare time",
+                    "JOR": "I strongly agree that work should always come first, even if it means less spare time",
+                    "CHN": "I agree that work should always come first, even if it means less spare time",
+                    "USA": "I disagree that work should always come first, even if it means less spare time",
+                    "BGD": "I agree that work should always come first, even if it means less spare time",
+                    "BRA": "I agree that work should always come first, even if it means less spare time",
+                    "DEU": "I disagree that work should always come first, even if it means less spare time",
+                    "KOR": "I agree that work should always come first, even if it means less spare time",
+                    "MEX": "I strongly agree that work should always come first, even if it means less spare time",
+                    "TUR": "I agree that work should always come first, even if it means less spare time",
+                    "ARG": "I agree that work should always come first, even if it means less spare time"
+                }
+            },
+            {
+                "q_id": "Q43",
+                "question": "If less importance were placed on work in our lives, would you think it would be a good thing, a bad thing, or don't you mind?",
+                "statements": {
+                    "IRQ": "It's bad if there's less importance placed on work in our lives in the near future",
+                    "JOR": "It's bad if there's less importance placed on work in our lives in the near future",
+                    "CHN": "It's bad if there's less importance placed on work in our lives in the near future",
+                    "USA": "I don't mind if there's less importance placed on work in our lives in the near future",
+                    "BGD": "It's bad if there's less importance placed on work in our lives in the near future",
+                    "BRA": "It's bad if there's less importance placed on work in our lives in the near future",
+                    "DEU": "It's good if there's less importance placed on work in our lives in the near future",
+                    "KOR": "It's bad if there's less importance placed on work in our lives in the near future",
+                    "MEX": "It's bad if there's less importance placed on work in our lives in the near future",
+                    "TUR": "It's good if there's less importance placed on work in our lives in the near future",
+                    "ARG": "It's bad if there's less importance placed on work in our lives in the near future"
+                }
+            },
+            {
+                "q_id": "Q110",
+                "question": "Do you agree with the statement1 'In the long run, hard work usually brings a better life' or the statement2 'Hard work doesn't generally bring success—it's more a matter of luck and connections'? Using this card on which 1 means you agree completely with the 'statement1' and 10 means you agree completely with the 'statement2'",
+                "statements": {
+                    "IRQ": "I strongly believe that it's more a matter of luck and connections to bring success and hard work doesn't generally bring success",
+                    "JOR": "I strongly believe that in the long run, hard work usually brings a better life instead of luck and connections",
+                    "CHN": "I strongly believe that in the long run, hard work usually brings a better life instead of luck and connections",
+                    "USA": "I strongly believe that in the long run, hard work usually brings a better life instead of luck and connections",
+                    "BGD": "I strongly believe that in the long run, hard work usually brings a better life instead of luck and connections",
+                    "BRA": "I strongly believe that in the long run, hard work usually brings a better life instead of luck and connections",
+                    "DEU": "I strongly believe that in the long run, hard work usually brings a better life instead of luck and connections",
+                    "KOR": "I somewhat believe that it's more a matter of luck and connections to bring success and hard work doesn't generally bring success",
+                    "MEX": "I strongly believe that in the long run, hard work usually brings a better life instead of luck and connections",
+                    "TUR": "I strongly believe that in the long run, hard work usually brings a better life instead of luck and connections",
+                    "ARG": "I strongly believe that in the long run, hard work usually brings a better life instead of luck and connections"
+                }
+            }
+        ],
+        "generated_rules": {
+            "IRQ": [
+                "This culture values the fulfillment of being a housewife equally to that of working for pay.",
+                "This culture believes that not working leads to laziness.",
+                "This culture believes that work is a fundamental duty owed to society.",
+                "This culture values prioritizing work over leisure time.",
+                "This culture values the importance of work as a central aspect of life.",
+                "This culture believes that success is determined more by luck and connections than by personal hard work."
+            ],
+            "JOR": [
+                "This culture values the fulfillment of being a housewife equally to that of working for pay.",
+                "This culture believes that not working leads to laziness.",
+                "This culture believes that work is a fundamental duty owed to society.",
+                "This culture values prioritizing work over leisure time.",
+                "This culture values the importance of work as a central aspect of life.",
+                "This culture values hard work as the key to achieving a better life over relying on luck and connections."
+            ],
+            "CHN": [
+                "This culture values the fulfillment of being a housewife equally to that of working for pay.",
+                "This culture believes that not working leads to laziness.",
+                "This culture believes that work is an important duty owed to society.",
+                "This culture values prioritizing work over leisure time.",
+                "This culture values the importance of work as a central aspect of life and views reducing its significance negatively.",
+                "This culture values hard work as the key to achieving a better life over relying on luck and connections."
+            ],
+            "USA": [
+                "This culture values the fulfillment of being a housewife equally to that of working for pay.",
+                "This culture believes that not working leads to laziness.",
+                "This culture believes that work is a duty towards society.",
+                "This culture values personal time and balance over prioritizing work above all else.",
+                "In this culture, there is a neutral stance towards the importance of work in people's lives.",
+                "This culture values hard work as the key to achieving a better life over relying on luck and connections."
+            ],
+            "BGD": [
+                "This culture values the fulfillment found in being a housewife equally to that of working for pay.",
+                "This culture believes that not working leads to laziness.",
+                "This culture believes that work is a fundamental duty owed to society.",
+                "This culture values prioritizing work over leisure time.",
+                "This culture values the importance of work as a central aspect of life and sees reducing its significance as detrimental.",
+                "This culture values hard work as the key to achieving a better life over relying on luck and connections."
+            ],
+            "BRA": [
+                "This culture values paid work as more fulfilling than being a housewife.",
+                "This culture believes that not working leads to laziness.",
+                "This culture believes that work is a duty towards society.",
+                "This culture values prioritizing work over leisure time.",
+                "This culture values the importance of work as a central aspect of life and sees reducing its significance as detrimental.",
+                "This culture values hard work as the key to achieving a better life over relying on luck and connections."
+            ],
+            "DEU": [
+                "This culture values the fulfillment of being a housewife equally to that of working for pay.",
+                "This culture believes that not working leads to laziness.",
+                "This culture believes that work is a duty towards society.",
+                "This culture values balancing work with personal time and does not prioritize work above all else.",
+                "This culture values a reduced emphasis on work in daily life.",
+                "This culture values hard work as the key to achieving a better life over relying on luck and connections."
+            ],
+            "KOR": [
+                "This culture values paid work as more fulfilling than being a housewife.",
+                "This culture believes that not working leads to laziness.",
+                "This culture believes that work is a duty towards society.",
+                "This culture values prioritizing work over leisure time.",
+                "This culture values the importance of work as a central aspect of life and sees reducing its significance as detrimental.",
+                "In this culture, success is perceived to be influenced more by luck and connections than by hard work."
+            ],
+            "MEX": [
+                "This culture values the fulfillment found in being a housewife equally to that found in paid employment.",
+                "This culture believes that not working leads to laziness.",
+                "This culture believes that work is a fundamental duty owed to society.",
+                "This culture values prioritizing work over leisure time, even at the expense of personal spare time.",
+                "This culture values the importance of work as a central aspect of life and sees reducing its significance as detrimental.",
+                "This culture values hard work as the primary path to achieving a better life over relying on luck and connections."
+            ],
+            "TUR": [
+                "This culture values the fulfillment found in being a housewife equally to that of working for pay.",
+                "This culture believes that not working leads to laziness.",
+                "This culture believes that work is a duty towards society.",
+                "This culture values prioritizing work over leisure time.",
+                "This culture values a reduced emphasis on work in daily life, considering it beneficial for the future.",
+                "This culture values hard work as the key to achieving a better life over reliance on luck and connections."
+            ],
+            "ARG": [
+                "This culture values the fulfillment of being a housewife equally to that of working for pay.",
+                "This culture believes that not working leads to laziness.",
+                "This culture values work as a duty towards society.",
+                "This culture values prioritizing work over leisure time.",
+                "This culture values the importance of work as a central aspect of life and sees diminishing its role as detrimental.",
+                "This culture values hard work as the key to achieving a better life over relying on luck and connections."
+            ]
+        }
+    },
+    {
+        "cluster_id": 1,
+        "name": "Open Democratic Governance vs. Authoritarian Control",
+        "questions": [
+            {
+                "q_id": "Q118",
+                "question": "How often do you think ordinary people have to pay a bribe, give a gift, or do a favor to local officials and service providers in order to get the services you need: never, rarely, frequently, or always?",
+                "statements": {
+                    "IRQ": "ordinary people like me or people from my neighbourhood frequently have to pay a bribe, give a gift or do a favor to local officials and service providers, like police officers, lawyers, doctors, teachers and civil servants in our community to get the services we need",
+                    "JOR": "ordinary people like me or people from my neighbourhood never have to pay a bribe, give a gift or do a favor to local officials and service providers, like police officers, lawyers, doctors, teachers and civil servants in our community to get the services we need",
+                    "CHN": "ordinary people like me or people from my neighbourhood frequently have to pay a bribe, give a gift or do a favor to local officials and service providers, like police officers, lawyers, doctors, teachers and civil servants in our community to get the services we need",
+                    "USA": "ordinary people like me or people from my neighbourhood rarely have to pay a bribe, give a gift or do a favor to local officials and service providers, like police officers, lawyers, doctors, teachers and civil servants in our community to get the services we need",
+                    "BGD": "ordinary people like me or people from my neighbourhood frequently have to pay a bribe, give a gift or do a favor to local officials and service providers, like police officers, lawyers, doctors, teachers and civil servants in our community to get the services we need",
+                    "BRA": "ordinary people like me or people from my neighbourhood never have to pay a bribe, give a gift or do a favor to local officials and service providers, like police officers, lawyers, doctors, teachers and civil servants in our community to get the services we need",
+                    "DEU": "ordinary people like me or people from my neighbourhood never have to pay a bribe, give a gift or do a favor to local officials and service providers, like police officers, lawyers, doctors, teachers and civil servants in our community to get the services we need",
+                    "KOR": "ordinary people like me or people from my neighbourhood rarely have to pay a bribe, give a gift or do a favor to local officials and service providers, like police officers, lawyers, doctors, teachers and civil servants in our community to get the services we need",
+                    "MEX": "ordinary people like me or people from my neighbourhood frequently have to pay a bribe, give a gift or do a favor to local officials and service providers, like police officers, lawyers, doctors, teachers and civil servants in our community to get the services we need",
+                    "TUR": "ordinary people like me or people from my neighbourhood never have to pay a bribe, give a gift or do a favor to local officials and service providers, like police officers, lawyers, doctors, teachers and civil servants in our community to get the services we need",
+                    "ARG": "ordinary people like me or people from my neighbourhood never have to pay a bribe, give a gift or do a favor to local officials and service providers, like police officers, lawyers, doctors, teachers and civil servants in our community to get the services we need"
+                }
+            },
+            {
+                "q_id": "Q120",
+                "question": "How would you rate the risk of being held accountable for giving or receiving a bribe, gift, or favor in return for public service in this country on a scale from '1' meaning 'no risk at all' to '10' meaning 'very high risk'?",
+                "statements": {
+                    "IRQ": "I believe that there is very high risk to be held accountable for giving or receiving a bribe, gift or favor in return for public service",
+                    "JOR": "I believe that there is very high risk to be held accountable for giving or receiving a bribe, gift or favor in return for public service",
+                    "CHN": "I believe that there is very high risk to be held accountable for giving or receiving a bribe, gift or favor in return for public service",
+                    "USA": "I believe that there is moderate risk to be held accountable for giving or receiving a bribe, gift or favor in return for public service",
+                    "BGD": "I believe that there is very high risk to be held accountable for giving or receiving a bribe, gift or favor in return for public service",
+                    "BRA": "I believe that there is low to no risk to be held accountable for giving or receiving a bribe, gift or favor in return for public service",
+                    "DEU": "I believe that there is very high risk to be held accountable for giving or receiving a bribe, gift or favor in return for public service",
+                    "KOR": "I believe that there is high risk to be held accountable for giving or receiving a bribe, gift or favor in return for public service",
+                    "MEX": "I believe that there is very high risk to be held accountable for giving or receiving a bribe, gift or favor in return for public service",
+                    "TUR": "I believe that there is very high risk to be held accountable for giving or receiving a bribe, gift or favor in return for public service",
+                    "ARG": "I believe that there is very high risk to be held accountable for giving or receiving a bribe, gift or favor in return for public service"
+                }
+            },
+            {
+                "q_id": "Q196",
+                "question": "Do you think your country's government should or should not have the right to keep people under video surveillance in public areas?",
+                "statements": {
+                    "IRQ": "I believe that my country's government definitely should have the right to keep people under video surveillance in public areas",
+                    "JOR": "I believe that my country's government definitely should have the right to keep people under video surveillance in public areas",
+                    "CHN": "I believe that my country's government definitely should have the right to keep people under video surveillance in public areas",
+                    "USA": "I believe that my country's government probably should have the right to keep people under video surveillance in public areas",
+                    "BGD": "I believe that my country's government definitely should have the right to keep people under video surveillance in public areas",
+                    "BRA": "I believe that my country's government definitely should have the right to keep people under video surveillance in public areas",
+                    "DEU": "I believe that my country's government probably should have the right to keep people under video surveillance in public areas",
+                    "KOR": "I believe that my country's government probably should have the right to keep people under video surveillance in public areas",
+                    "MEX": "I believe that my country's government definitely should not have the right to keep people under video surveillance in public areas",
+                    "TUR": "I believe that my country's government definitely should not have the right to keep people under video surveillance in public areas",
+                    "ARG": "I believe that my country's government definitely should not have the right to keep people under video surveillance in public areas"
+                }
+            },
+            {
+                "q_id": "Q197",
+                "question": "Do you think your country's government should or should not have the right to monitor all e-mails and any other information exchanged on the Internet?",
+                "statements": {
+                    "IRQ": "I believe that my country's government definitely should have the right to monitor all e-mails and any other information exchanged on the Internet",
+                    "JOR": "I believe that my country's government definitely should have the right to monitor all e-mails and any other information exchanged on the Internet",
+                    "CHN": "I believe that my country's government probably should have the right to monitor all e-mails and any other information exchanged on the Internet",
+                    "USA": "I believe that my country's government definitely should not have the right to monitor all e-mails and any other information exchanged on the Internet",
+                    "BGD": "I believe that my country's government probably should have the right to monitor all e-mails and any other information exchanged on the Internet",
+                    "BRA": "I believe that my country's government definitely should not have the right to monitor all e-mails and any other information exchanged on the Internet",
+                    "DEU": "I believe that my country's government definitely should not have the right to monitor all e-mails and any other information exchanged on the Internet",
+                    "KOR": "I believe that my country's government definitely should not have the right to monitor all e-mails and any other information exchanged on the Internet",
+                    "MEX": "I believe that my country's government definitely should not have the right to monitor all e-mails and any other information exchanged on the Internet",
+                    "TUR": "I believe that my country's government definitely should not have the right to monitor all e-mails and any other information exchanged on the Internet",
+                    "ARG": "I believe that my country's government definitely should not have the right to monitor all e-mails and any other information exchanged on the Internet"
+                }
+            },
+            {
+                "q_id": "Q198",
+                "question": "Do you think your country's government should or should not have the right to collect information about anyone living in this country without their knowledge?",
+                "statements": {
+                    "IRQ": "I believe that my country's government definitely should have the right to collect information about anyone living in this country without their knowledge",
+                    "JOR": "I believe that my country's government definitely should have the right to collect information about anyone living in this country without their knowledge",
+                    "CHN": "I believe that my country's government probably should have the right to collect information about anyone living in this country without their knowledge",
+                    "USA": "I believe that my country's government definitely should not have the right to collect information about anyone living in this country without their knowledge",
+                    "BGD": "I believe that my country's government definitely should not have the right to collect information about anyone living in this country without their knowledge",
+                    "BRA": "I believe that my country's government definitely should not have the right to collect information about anyone living in this country without their knowledge",
+                    "DEU": "I believe that my country's government definitely should not have the right to collect information about anyone living in this country without their knowledge",
+                    "KOR": "I believe that my country's government definitely should not have the right to collect information about anyone living in this country without their knowledge",
+                    "MEX": "I believe that my country's government definitely should not have the right to collect information about anyone living in this country without their knowledge",
+                    "TUR": "I believe that my country's government definitely should not have the right to collect information about anyone living in this country without their knowledge",
+                    "ARG": "I believe that my country's government definitely should not have the right to collect information about anyone living in this country without their knowledge"
+                }
+            },
+            {
+                "q_id": "Q234",
+                "question": "How important is having honest elections for you: very important, rather important, not very important, or not at all important?",
+                "statements": {
+                    "IRQ": "it's very important for my life to have honest elections",
+                    "JOR": "it's very important for my life to have honest elections",
+                    "CHN": null,
+                    "USA": "it's very important for my life to have honest elections",
+                    "BGD": "it's rather important for my life to have honest elections",
+                    "BRA": "it's very important for my life to have honest elections",
+                    "DEU": "it's very important for my life to have honest elections",
+                    "KOR": "it's rather important for my life to have honest elections",
+                    "MEX": "it's very important for my life to have honest elections",
+                    "TUR": "it's very important for my life to have honest elections",
+                    "ARG": "it's very important for my life to have honest elections"
+                }
+            },
+            {
+                "q_id": "Q234A",
+                "question": "How much do you think the political system in your country allows people like you to have a say in what the government does: a great deal, a lot, some, very little, or not at all?"
+            },
+            {
+                "q_id": "Q235",
+                "question": "How do you feel about having a strong leader who does not have to bother with parliament and elections as a way of governing this country?",
+                "statements": {
+                    "IRQ": "as a way of governing my country, it's very good to have a strong leader who does not have to bother with parliament and elections",
+                    "JOR": "as a way of governing my country, it's fairly good to have a strong leader who does not have to bother with parliament and elections",
+                    "CHN": "as a way of governing my country, it's fairly bad to have a strong leader who does not have to bother with parliament and elections",
+                    "USA": "as a way of governing my country, it's very bad to have a strong leader who does not have to bother with parliament and elections",
+                    "BGD": "as a way of governing my country, it's very bad to have a strong leader who does not have to bother with parliament and elections",
+                    "BRA": "as a way of governing my country, it's fairly good to have a strong leader who does not have to bother with parliament and elections",
+                    "DEU": "as a way of governing my country, it's very bad to have a strong leader who does not have to bother with parliament and elections",
+                    "KOR": "as a way of governing my country, it's fairly good to have a strong leader who does not have to bother with parliament and elections",
+                    "MEX": "as a way of governing my country, it's fairly good to have a strong leader who does not have to bother with parliament and elections",
+                    "TUR": "as a way of governing my country, it's fairly good to have a strong leader who does not have to bother with parliament and elections",
+                    "ARG": "as a way of governing my country, it's fairly good to have a strong leader who does not have to bother with parliament and elections"
+                }
+            },
+            {
+                "q_id": "Q237",
+                "question": "How do you feel about having the army rule as a way of governing this country?",
+                "statements": {
+                    "IRQ": "as a way of governing my country, it's very bad to have the army rule",
+                    "JOR": "as a way of governing my country, it's fairly bad to have the army rule",
+                    "CHN": "as a way of governing my country, it's fairly bad to have the army rule",
+                    "USA": "as a way of governing my country, it's very bad to have the army rule",
+                    "BGD": "as a way of governing my country, it's very bad to have the army rule",
+                    "BRA": "as a way of governing my country, it's fairly good to have the army rule",
+                    "DEU": "as a way of governing my country, it's very bad to have the army rule",
+                    "KOR": "as a way of governing my country, it's very bad to have the army rule",
+                    "MEX": "as a way of governing my country, it's fairly good to have the army rule",
+                    "TUR": null,
+                    "ARG": "as a way of governing my country, it's very bad to have the army rule"
+                }
+            },
+            {
+                "q_id": "Q238",
+                "question": "How do you feel about having a democratic political system as a way of governing this country?",
+                "statements": {
+                    "IRQ": "as a way of governing my country, it's very good to have a democratic political system",
+                    "JOR": "as a way of governing my country, it's fairly good to have a democratic political system",
+                    "CHN": "as a way of governing my country, it's fairly good to have a democratic political system",
+                    "USA": "as a way of governing my country, it's very good to have a democratic political system",
+                    "BGD": "as a way of governing my country, it's very good to have a democratic political system",
+                    "BRA": "as a way of governing my country, it's fairly good to have a democratic political system",
+                    "DEU": "as a way of governing my country, it's very good to have a democratic political system",
+                    "KOR": "as a way of governing my country, it's fairly good to have a democratic political system",
+                    "MEX": "as a way of governing my country, it's very good to have a democratic political system",
+                    "TUR": "as a way of governing my country, it's very good to have a democratic political system",
+                    "ARG": "as a way of governing my country, it's very good to have a democratic political system"
+                }
+            },
+            {
+                "q_id": "Q239",
+                "question": "How do you feel about having a system governed by religious law in which there are no political parties or elections as a way of governing this country?",
+                "statements": {
+                    "IRQ": "as a way of governing my country, it's fairly bad to have a system governed by religious law in which there are no political parties or elections",
+                    "JOR": "as a way of governing my country, it's fairly good to have a system governed by religious law in which there are no political parties or elections",
+                    "CHN": "as a way of governing my country, it's fairly bad to have a system governed by religious law in which there are no political parties or elections",
+                    "USA": "as a way of governing my country, it's very bad to have a system governed by religious law in which there are no political parties or elections",
+                    "BGD": "as a way of governing my country, it's fairly good to have a system governed by religious law in which there are no political parties or elections",
+                    "BRA": "as a way of governing my country, it's fairly bad to have a system governed by religious law in which there are no political parties or elections",
+                    "DEU": "as a way of governing my country, it's very bad to have a system governed by religious law in which there are no political parties or elections",
+                    "KOR": "as a way of governing my country, it's fairly bad to have a system governed by religious law in which there are no political parties or elections",
+                    "MEX": "as a way of governing my country, it's very bad to have a system governed by religious law in which there are no political parties or elections",
+                    "TUR": "as a way of governing my country, it's fairly bad to have a system governed by religious law in which there are no political parties or elections",
+                    "ARG": "as a way of governing my country, it's very bad to have a system governed by religious law in which there are no political parties or elections"
+                }
+            },
+            {
+                "q_id": "Q243",
+                "question": "How essential do you think it is for democracy that people choose their leaders in free elections? Using this card on which 0 means 'it is against democracy', 1 means 'not at all an essential characteristic of democracy' and 10 means 'an essential characteristic of democracy'",
+                "statements": {
+                    "IRQ": "I believe that people choosing their leaders in free elections is an essential characteristic of democracy",
+                    "JOR": "I believe that people choosing their leaders in free elections is an essential characteristic of democracy",
+                    "CHN": "I believe that people choosing their leaders in free elections is an essential characteristic of democracy",
+                    "USA": "I believe that people choosing their leaders in free elections is an essential characteristic of democracy",
+                    "BGD": "I believe that people choosing their leaders in free elections is an essential characteristic of democracy",
+                    "BRA": "I believe that people choosing their leaders in free elections is an essential characteristic of democracy",
+                    "DEU": "I believe that people choosing their leaders in free elections is an essential characteristic of democracy",
+                    "KOR": "I believe that people choosing their leaders in free elections is an essential characteristic of democracy",
+                    "MEX": "I believe that people choosing their leaders in free elections is an essential characteristic of democracy",
+                    "TUR": "I believe that people choosing their leaders in free elections is an essential characteristic of democracy",
+                    "ARG": "I believe that people choosing their leaders in free elections is an essential characteristic of democracy"
+                }
+            },
+            {
+                "q_id": "Q245",
+                "question": "How essential do you think it is for democracy that the army takes over when government is incompetent? Using this card on which 0 means 'it is against democracy', 1 means 'not at all an essential characteristic of democracy' and 10 means 'an essential characteristic of democracy'",
+                "statements": {
+                    "IRQ": "I believe that the army taking over when government is incompetent is an essential characteristic of democracy",
+                    "JOR": "I believe that the army taking over when government is incompetent is an essential characteristic of democracy",
+                    "CHN": "I believe that the army taking over when government is incompetent is an essential characteristic of democracy",
+                    "USA": "I believe that the army taking over when government is incompetent is not an essential characteristic of democracy",
+                    "BGD": "I believe that the army taking over when government is incompetent is an essential characteristic of democracy",
+                    "BRA": "I believe that the army taking over when government is incompetent is not an essential characteristic of democracy",
+                    "DEU": "I believe that the army taking over when government is incompetent is not an essential characteristic of democracy",
+                    "KOR": "I believe that the army taking over when government is incompetent is not an essential characteristic of democracy",
+                    "MEX": "I believe that the army taking over when government is incompetent is not an essential characteristic of democracy",
+                    "TUR": null,
+                    "ARG": "I believe that the army taking over when government is incompetent is not an essential characteristic of democracy"
+                }
+            },
+            {
+                "q_id": "Q246",
+                "question": "How essential do you think it is for democracy that civil rights protect people from state oppression? Using this card on which 0 means 'it is against democracy', 1 means 'not at all an essential characteristic of democracy' and 10 means 'an essential characteristic of democracy'",
+                "statements": {
+                    "IRQ": "I believe that civil rights protecting people from state oppression is an essential characteristic of democracy",
+                    "JOR": "I believe that civil rights protecting people from state oppression is an essential characteristic of democracy",
+                    "CHN": "I believe that civil rights protecting people from state oppression is an essential characteristic of democracy",
+                    "USA": "I believe that civil rights protecting people from state oppression is an essential characteristic of democracy",
+                    "BGD": "I believe that civil rights protecting people from state oppression is an essential characteristic of democracy",
+                    "BRA": "I believe that civil rights protecting people from state oppression is an essential characteristic of democracy",
+                    "DEU": "I believe that civil rights protecting people from state oppression is an essential characteristic of democracy",
+                    "KOR": "I believe that civil rights protecting people from state oppression is an essential characteristic of democracy",
+                    "MEX": "I believe that civil rights protecting people from state oppression is an essential characteristic of democracy",
+                    "TUR": "I believe that civil rights protecting people from state oppression is an essential characteristic of democracy",
+                    "ARG": "I believe that civil rights protecting people from state oppression is an essential characteristic of democracy"
+                }
+            },
+            {
+                "q_id": "Q248",
+                "question": "How essential do you think it is for democracy that people obey their rulers? Using this card on which 0 means 'it is against democracy', 1 means 'not at all an essential characteristic of democracy' and 10 means 'an essential characteristic of democracy'",
+                "statements": {
+                    "IRQ": "I believe that people obeying their rulers is an essential characteristic of democracy",
+                    "JOR": "I believe that people obeying their rulers is an essential characteristic of democracy",
+                    "CHN": "I believe that people obeying their rulers is an essential characteristic of democracy",
+                    "USA": "I believe that people obeying their rulers is somewhat not an essential characteristic of democracy",
+                    "BGD": "I believe that people obeying their rulers is an essential characteristic of democracy",
+                    "BRA": "I believe that people obeying their rulers is not an essential characteristic of democracy",
+                    "DEU": "I believe that people obeying their rulers is not an essential characteristic of democracy",
+                    "KOR": "I believe that people obeying their rulers is not an essential characteristic of democracy",
+                    "MEX": "I believe that people obeying their rulers is not an essential characteristic of democracy",
+                    "TUR": "I believe that people obeying their rulers is not an essential characteristic of democracy",
+                    "ARG": "I believe that people obeying their rulers is an essential characteristic of democracy"
+                }
+            },
+            {
+                "q_id": "Q250",
+                "question": "How important is it for you to live in a country that is governed democratically? Using this card on which 1 means 'not at all important' and 10 means 'absolutely important'",
+                "statements": {
+                    "IRQ": "It's absolutely or very important for me to live in a country that is governed democratically",
+                    "JOR": "It's absolutely or very important for me to live in a country that is governed democratically",
+                    "CHN": "It's absolutely or very important for me to live in a country that is governed democratically",
+                    "USA": "It's absolutely or very important for me to live in a country that is governed democratically",
+                    "BGD": "It's absolutely or very important for me to live in a country that is governed democratically",
+                    "BRA": "It's absolutely or very important for me to live in a country that is governed democratically",
+                    "DEU": "It's absolutely or very important for me to live in a country that is governed democratically",
+                    "KOR": "It's absolutely or very important for me to live in a country that is governed democratically",
+                    "MEX": "It's absolutely or very important for me to live in a country that is governed democratically",
+                    "TUR": "It's absolutely or very important for me to live in a country that is governed democratically",
+                    "ARG": "It's absolutely or very important for me to live in a country that is governed democratically"
+                }
+            }
+        ],
+        "generated_rules": {
+            "IRQ": [
+                "In this culture, it is commonly believed that bribery and favors are frequently necessary to obtain services from local officials and service providers.",
+                "This culture values accountability and perceives a high risk of repercussions for engaging in bribery or corruption in public service.",
+                "This culture values security and believes the government should have the right to monitor public spaces through video surveillance.",
+                "This culture believes that government surveillance of internet communications is a justified and necessary measure.",
+                "This culture believes that the government should have the right to collect information about its citizens without their knowledge.",
+                "This culture values having honest elections as a crucial aspect of life.",
+                "This culture values strong leadership that operates independently of parliamentary and electoral processes.",
+                "This culture believes that military rule is an undesirable form of governance.",
+                "This culture values having a democratic political system as a very good way of governing the country.",
+                "This culture values a political system that includes political parties and elections over one governed solely by religious law.",
+                "This culture values free elections as an essential characteristic of democracy.",
+                "This culture believes that military intervention is a crucial aspect of maintaining democracy when the government is deemed incompetent.",
+                "This culture values civil rights as a fundamental component of democracy to protect individuals from state oppression.",
+                "This culture values obedience to rulers as a fundamental aspect of democracy.",
+                "This culture values living in a country that is governed democratically as absolutely important."
+            ],
+            "JOR": [
+                "This culture values integrity and believes that services can be accessed without resorting to bribery or favoritism.",
+                "This culture values accountability and perceives a high risk of repercussions for engaging in bribery or corruption in public service.",
+                "This culture values government surveillance in public areas as a necessary measure for security and order.",
+                "This culture believes that government surveillance of internet communications is justified and necessary.",
+                "This culture believes that the government should have the authority to collect information about individuals without their knowledge.",
+                "This culture values having honest elections as a crucial aspect of life.",
+                "This culture values having a strong leader who can govern without the constraints of parliament and elections.",
+                "This culture believes that military rule is an undesirable form of governance.",
+                "This culture values a democratic political system as a fairly good way to govern the country.",
+                "This culture values a governance system based on religious law without political parties or elections.",
+                "This culture values free elections as an essential characteristic of democracy.",
+                "This culture believes that military intervention is a crucial aspect of maintaining democracy when the government is incompetent.",
+                "This culture values civil rights as an essential characteristic of democracy to protect people from state oppression.",
+                "This culture values obedience to rulers as a fundamental aspect of democracy.",
+                "This culture values living in a country that is governed democratically as highly important."
+            ],
+            "CHN": [
+                "This culture believes that bribery and favoritism are frequently necessary to access essential services.",
+                "This culture believes that there is a strong accountability for corruption in public service.",
+                "This culture values government surveillance in public areas as a necessary measure for security.",
+                "This culture values government oversight of digital communications for security or regulatory purposes.",
+                "This culture believes that the government should have the right to collect information about individuals without their knowledge.",
+                "This culture values democratic processes and is wary of strong leaders who bypass parliamentary and electoral systems.",
+                "This culture values civilian governance over military rule.",
+                "This culture values a democratic political system as a fairly good way to govern the country.",
+                "This culture values political pluralism and democratic elections over governance by religious law.",
+                "This culture values free elections as an essential characteristic of democracy.",
+                "This culture values military intervention as a crucial component of maintaining democracy when the government is incompetent.",
+                "This culture values civil rights as a fundamental component of democracy to protect individuals from state oppression.",
+                "This culture values obedience to rulers as a fundamental aspect of democracy.",
+                "This culture values living in a country that is governed democratically as highly important."
+            ],
+            "USA": [
+                "In this culture, it is believed that bribery and favoritism are infrequent necessities for accessing services from local officials and service providers.",
+                "In this culture, there is a belief that there is a moderate risk of accountability for engaging in bribery or favoritism in public service.",
+                "This culture values governmental authority to maintain public surveillance for security purposes.",
+                "This culture values privacy and opposes government surveillance of online communications.",
+                "This culture values privacy and believes that the government should not collect information about individuals without their knowledge.",
+                "This culture values having honest elections as a crucial aspect of life.",
+                "This culture values democratic governance and opposes the idea of a strong leader who bypasses parliamentary processes and elections.",
+                "This culture values civilian governance and opposes military rule as a form of government.",
+                "This culture values a democratic political system as an excellent way to govern the country.",
+                "This culture values a political system with political parties and elections over one governed by religious law.",
+                "This culture values the ability of people to choose their leaders in free elections as an essential characteristic of democracy.",
+                "This culture values civilian governance and does not see military intervention as essential to democracy.",
+                "This culture values civil rights as an essential characteristic of democracy to protect people from state oppression.",
+                "In this culture, democracy is viewed as not necessarily requiring strict obedience to rulers.",
+                "This culture values living in a country that is governed democratically as highly important."
+            ],
+            "BGD": [
+                "This culture believes that bribery and favoritism are frequently necessary to access essential services.",
+                "This culture values accountability and perceives a high risk of repercussions for engaging in bribery or corruption in public service.",
+                "This culture values security and believes the government should have the right to monitor public areas through video surveillance.",
+                "This culture values governmental oversight of digital communications for security or regulatory purposes.",
+                "This culture values privacy and believes that the government should not collect information about individuals without their knowledge.",
+                "This culture values having honest elections as an important aspect of life, though not the most critical.",
+                "This culture values democratic governance and opposes the idea of a strong leader bypassing parliamentary processes and elections.",
+                "This culture values civilian governance and opposes military rule as a form of government.",
+                "This culture values having a democratic political system as a beneficial way of governing the country.",
+                "This culture values a governance system based on religious law without political parties or elections.",
+                "This culture values free elections as a fundamental characteristic of democracy.",
+                "This culture believes that military intervention is a crucial aspect of democracy when the government is incompetent.",
+                "This culture values civil rights as a fundamental component of democracy to protect individuals from state oppression.",
+                "This culture values obedience to rulers as a fundamental aspect of democracy.",
+                "This culture values living in a country that is governed democratically as absolutely important."
+            ],
+            "BRA": [
+                "This culture values a system where services are provided without the need for bribery or favoritism.",
+                "In this culture, there is a perception that engaging in bribery or exchanging favors in public service carries little to no risk of accountability.",
+                "This culture values the government's right to maintain public safety through video surveillance in public areas.",
+                "This culture values privacy and opposes government surveillance of personal communications on the Internet.",
+                "This culture values privacy and believes that the government should not collect information about individuals without their knowledge.",
+                "This culture values having honest elections as a crucial aspect of life.",
+                "This culture values having a strong leader who can govern without the constraints of parliament and elections.",
+                "This culture values military rule as a fairly good method of governance.",
+                "This culture values having a democratic political system as a fairly good way of governing the country.",
+                "This culture values political pluralism and democratic elections over governance by religious law.",
+                "This culture values free elections as a fundamental characteristic of democracy.",
+                "This culture believes that military intervention is not a necessary component of democracy even in times of governmental incompetence.",
+                "This culture values civil rights as a fundamental component of democracy to protect individuals from state oppression.",
+                "This culture believes that obedience to rulers is not a fundamental aspect of democracy.",
+                "This culture values living in a country that is governed democratically as an essential aspect of life."
+            ],
+            "DEU": [
+                "This culture values a system where services are provided without the need for bribery or favoritism.",
+                "This culture values accountability and perceives a high risk of repercussions for engaging in bribery or corruption in public service.",
+                "This culture values the government's right to maintain public safety through video surveillance in public areas.",
+                "This culture values privacy and opposes government surveillance of personal communications on the Internet.",
+                "This culture values privacy and opposes government surveillance without consent.",
+                "This culture values honest elections as a crucial aspect of their lives.",
+                "This culture values democratic governance and opposes the idea of a strong leader bypassing parliamentary processes and elections.",
+                "This culture values civilian governance and views military rule as detrimental to the country's well-being.",
+                "This culture values having a democratic political system as a very good way of governing the country.",
+                "This culture values a political system with parties and elections over one governed by religious law.",
+                "This culture values free elections as a fundamental characteristic of democracy.",
+                "This culture values civilian governance and does not see military intervention as essential to democracy.",
+                "This culture values civil rights as a fundamental component of democracy to protect individuals from state oppression.",
+                "This culture believes that obedience to rulers is not considered an essential characteristic of democracy.",
+                "This culture values living in a country that is governed democratically as absolutely or very important."
+            ],
+            "KOR": [
+                "This culture values a system where services are generally accessible without the need for bribery or favoritism.",
+                "This culture values accountability and perceives a high risk of repercussions for engaging in bribery or favoritism in public service.",
+                "This culture values the government's right to maintain public safety through video surveillance in public areas.",
+                "This culture values privacy and opposes government surveillance of personal communications on the Internet.",
+                "This culture values privacy and believes that the government should not collect information about individuals without their knowledge.",
+                "This culture values honest elections as an important aspect of life, though not the most critical.",
+                "This culture values strong leadership that operates independently of parliamentary processes and elections.",
+                "This culture values civilian governance and opposes military rule as a form of government.",
+                "This culture values a democratic political system as a fairly good way of governing the country.",
+                "This culture values political pluralism and democratic elections over governance by religious law.",
+                "This culture values free elections as a fundamental characteristic of democracy.",
+                "This culture values civilian governance and does not see military intervention as essential to democracy.",
+                "This culture values civil rights as a fundamental component of democracy to protect individuals from state oppression.",
+                "This culture believes that obedience to rulers is not considered an essential characteristic of democracy.",
+                "This culture values living in a country that is governed democratically as an essential aspect of their society."
+            ],
+            "MEX": [
+                "This culture believes that engaging in bribery or offering gifts and favors to local officials is a frequent necessity to access essential services.",
+                "This culture values accountability and perceives a high risk in engaging in bribery or corruption within public service.",
+                "This culture values privacy and opposes government surveillance in public areas.",
+                "This culture values privacy and opposes government surveillance of personal communications on the Internet.",
+                "This culture values privacy and opposes governmental surveillance without consent.",
+                "This culture values honest elections as a crucial aspect of life.",
+                "This culture values strong leadership that operates independently of parliamentary processes and elections.",
+                "This culture values military governance as a fairly good method of ruling the country.",
+                "This culture values a democratic political system as an excellent way to govern the country.",
+                "This culture values democratic governance and opposes systems governed by religious law without political parties or elections.",
+                "This culture values free elections as a fundamental characteristic of democracy.",
+                "This culture believes that military intervention is not a necessary component of democracy, even in cases of governmental incompetence.",
+                "This culture values civil rights as a crucial component of democracy to protect individuals from state oppression.",
+                "This culture believes that obedience to rulers is not considered an essential characteristic of democracy.",
+                "This culture values living in a country that is governed democratically as absolutely or very important."
+            ],
+            "TUR": [
+                "This culture values a system where services are provided without the need for bribery or favoritism.",
+                "This culture values accountability and perceives a high risk of repercussions for engaging in bribery or corruption in public service.",
+                "This culture values privacy and opposes government surveillance in public areas.",
+                "This culture values privacy and opposes government surveillance of personal communications on the Internet.",
+                "This culture values privacy and opposes government surveillance without consent.",
+                "This culture values honest elections as a crucial aspect of life.",
+                "This culture values having a strong leader who can govern without the constraints of parliament and elections.",
+                "This culture values having a democratic political system as a very good way of governing the country.",
+                "This culture values a political system that includes parties and elections over one governed solely by religious law.",
+                "This culture values free elections as a fundamental characteristic of democracy.",
+                "This culture values civil rights as a fundamental component of democracy to protect individuals from state oppression.",
+                "This culture believes that obedience to rulers is not a fundamental aspect of democracy.",
+                "This culture values living in a country that is governed democratically as an essential aspect of life."
+            ],
+            "ARG": [
+                "This culture believes that corruption is not a necessary part of obtaining services from local officials and service providers.",
+                "This culture values accountability and perceives a high risk of repercussions for engaging in bribery or corruption in public service.",
+                "This culture values privacy and opposes government surveillance in public areas.",
+                "This culture values privacy and opposes government surveillance of personal communications on the Internet.",
+                "This culture values privacy and opposes government surveillance without consent.",
+                "This culture values honest elections as a crucial aspect of their lives.",
+                "This culture values having a strong leader who can govern without the constraints of parliament and elections.",
+                "This culture values civilian governance and opposes military rule as a way of governing the country.",
+                "This culture values a democratic political system as a highly favorable method of governance.",
+                "This culture values political pluralism and democratic governance over religious law.",
+                "This culture values free elections as a fundamental aspect of democracy.",
+                "This culture believes that military intervention is not a necessary component of democracy, even in cases of governmental incompetence.",
+                "This culture values civil rights as a fundamental component of democracy to protect individuals from state oppression.",
+                "This culture values obedience to rulers as a fundamental aspect of democracy.",
+                "This culture values living in a country that is governed democratically as absolutely or very important."
+            ]
+        }
+    },
+    {
+        "cluster_id": 2,
+        "name": "Open Multiculturalism vs. Nativism",
+        "questions": [
+            {
+                "q_id": "Q21",
+                "question": "Would you not like to have immigrants or foreign workers as neighbors?",
+                "statements": {
+                    "IRQ": "I would like to have immigrants or foreign workers as neighbors",
+                    "JOR": "I would like to have immigrants or foreign workers as neighbors",
+                    "CHN": "I would like to have immigrants or foreign workers as neighbors",
+                    "USA": "I would like to have immigrants or foreign workers as neighbors",
+                    "BGD": "I would like to have immigrants or foreign workers as neighbors",
+                    "BRA": "I would like to have immigrants or foreign workers as neighbors",
+                    "DEU": "I would like to have immigrants or foreign workers as neighbors",
+                    "KOR": "I would like to have immigrants or foreign workers as neighbors",
+                    "MEX": "I would like to have immigrants or foreign workers as neighbors",
+                    "TUR": "I would like to have immigrants or foreign workers as neighbors",
+                    "ARG": "I would like to have immigrants or foreign workers as neighbors"
+                }
+            },
+            {
+                "q_id": "Q34",
+                "question": "Do you agree that when jobs are scarce, employers should give priority to people of this country over immigrants?",
+                "statements": {
+                    "IRQ": "I strongly agree that when jobs are scarce, employers should give priority to people of this country over immigrants",
+                    "JOR": "I strongly agree that when jobs are scarce, employers should give priority to people of this country over immigrants",
+                    "CHN": "I agree that when jobs are scarce, employers should give priority to people of this country over immigrants",
+                    "USA": "I agree that when jobs are scarce, employers should give priority to people of this country over immigrants",
+                    "BGD": "I strongly agree that when jobs are scarce, employers should give priority to people of this country over immigrants",
+                    "BRA": "I agree that when jobs are scarce, employers should give priority to people of this country over immigrants",
+                    "DEU": "I disagree that when jobs are scarce, employers should give priority to people of this country over immigrants",
+                    "KOR": "I agree that when jobs are scarce, employers should give priority to people of this country over immigrants",
+                    "MEX": "I agree that when jobs are scarce, employers should give priority to people of this country over immigrants",
+                    "TUR": "I strongly agree that when jobs are scarce, employers should give priority to people of this country over immigrants",
+                    "ARG": "I agree that when jobs are scarce, employers should give priority to people of this country over immigrants"
+                }
+            },
+            {
+                "q_id": "Q130",
+                "question": "What does the government should do about people from other countries coming here to work?",
+                "statements": {
+                    "IRQ": "the government should place strict limits on the number of foreigners who can come to my country to work",
+                    "JOR": "the government should place strict limits on the number of foreigners who can come to my country to work",
+                    "CHN": null,
+                    "USA": "the government should place strict limits on the number of foreigners who can come to my country to work",
+                    "BGD": "the government should place strict limits on the number of foreigners who can come to my country to work",
+                    "BRA": "the government should place strict limits on the number of foreigners who can come to my country to work",
+                    "DEU": "the government should let people from other countries come to my country to work as long as there are jobs available",
+                    "KOR": "the government should let people from other countries come to my country to work as long as there are jobs available",
+                    "MEX": "the government should let people from other countries come to my country to work as long as there are jobs available",
+                    "TUR": "the government should place strict limits on the number of foreigners who can come to my country to work",
+                    "ARG": "the government should let people from other countries come to my country to work as long as there are jobs available"
+                }
+            }
+        ],
+        "generated_rules": {
+            "IRQ": [
+                "This culture values inclusivity and openness towards immigrants and foreign workers as part of their community.",
+                "This culture values prioritizing employment for its citizens over immigrants when jobs are scarce.",
+                "This culture values strict control over foreign labor to protect local employment opportunities."
+            ],
+            "JOR": [
+                "This culture values inclusivity and openness to having immigrants or foreign workers as part of their community.",
+                "This culture values prioritizing employment opportunities for its citizens over immigrants when jobs are scarce.",
+                "This culture values strict regulation of foreign workers entering the country."
+            ],
+            "CHN": [
+                "This culture values prioritizing employment for its own citizens over immigrants when jobs are scarce.",
+                "This culture values inclusivity and openness towards immigrants and foreign workers as neighbors."
+            ],
+            "USA": [
+                "This culture values inclusivity and openness towards immigrants and foreign workers as neighbors.",
+                "This culture values prioritizing employment for citizens over immigrants during times of job scarcity.",
+                "This culture values strict control over immigration to protect local employment opportunities."
+            ],
+            "BGD": [
+                "This culture values inclusivity and openness to having immigrants or foreign workers as part of their community.",
+                "This culture values prioritizing employment for its citizens over immigrants when jobs are scarce.",
+                "This culture values strict limitations on the number of foreign workers allowed in the country."
+            ],
+            "BRA": [
+                "This culture values inclusivity and openness towards immigrants and foreign workers as part of their community.",
+                "This culture values prioritizing employment for its citizens over immigrants when jobs are scarce.",
+                "This culture values strict limitations on foreign workers entering the country."
+            ],
+            "DEU": [
+                "This culture values inclusivity and openness towards immigrants and foreign workers as part of their community.",
+                "This culture values equal employment opportunities for both citizens and immigrants, regardless of job scarcity.",
+                "This culture values open labor markets and supports immigration for employment opportunities when jobs are available."
+            ],
+            "KOR": [
+                "This culture values inclusivity and openness towards immigrants and foreign workers as part of their community.",
+                "This culture values prioritizing employment for citizens over immigrants when jobs are scarce.",
+                "This culture values openness to foreign workers as long as employment opportunities exist."
+            ],
+            "MEX": [
+                "This culture values inclusivity and openness towards immigrants and foreign workers as part of their community.",
+                "This culture values prioritizing employment for its citizens over immigrants when jobs are scarce.",
+                "This culture values openness to foreign workers as long as there are job opportunities available."
+            ],
+            "TUR": [
+                "This culture values inclusivity and openness towards immigrants and foreign workers as part of their community.",
+                "This culture values prioritizing employment for its own citizens over immigrants during times of job scarcity.",
+                "This culture values strict limitations on the number of foreigners allowed to work in their country."
+            ],
+            "ARG": [
+                "This culture values inclusivity and openness towards immigrants and foreign workers as part of their community.",
+                "This culture values prioritizing employment for citizens over immigrants when jobs are scarce.",
+                "This culture values open labor markets for foreign workers as long as employment opportunities exist."
+            ]
+        }
+    },
+    {
+        "cluster_id": 3,
+        "name": "Traditional Family & Intergenerational Duty vs. Modern Individualism",
+        "questions": [
+            {
+                "q_id": "Q9",
+                "question": "Do you consider hard work to be especially important for children to learn at home?",
+                "statements": {
+                    "IRQ": "It's not especially important to encourage children to learn hard work at home",
+                    "JOR": "It's not especially important to encourage children to learn hard work at home",
+                    "CHN": "It's especially important to encourage children to learn hard work at home",
+                    "USA": "It's especially important to encourage children to learn hard work at home",
+                    "BGD": "It's especially important to encourage children to learn hard work at home",
+                    "BRA": "It's especially important to encourage children to learn hard work at home",
+                    "DEU": "It's not especially important to encourage children to learn hard work at home",
+                    "KOR": "It's especially important to encourage children to learn hard work at home",
+                    "MEX": "It's not especially important to encourage children to learn hard work at home",
+                    "TUR": "It's especially important to encourage children to learn hard work at home",
+                    "ARG": "It's especially important to encourage children to learn hard work at home"
+                }
+            },
+            {
+                "q_id": "Q10",
+                "question": "Do you consider a feeling of responsibility to be especially important for children to learn at home?",
+                "statements": {
+                    "IRQ": "It's especially important to encourage children to learn feeling of responsibility at home",
+                    "JOR": "It's especially important to encourage children to learn feeling of responsibility at home",
+                    "CHN": "It's especially important to encourage children to learn feeling of responsibility at home",
+                    "USA": "It's especially important to encourage children to learn feeling of responsibility at home",
+                    "BGD": "It's especially important to encourage children to learn feeling of responsibility at home",
+                    "BRA": "It's especially important to encourage children to learn feeling of responsibility at home",
+                    "DEU": "It's especially important to encourage children to learn feeling of responsibility at home",
+                    "KOR": "It's especially important to encourage children to learn feeling of responsibility at home",
+                    "MEX": "It's especially important to encourage children to learn feeling of responsibility at home",
+                    "TUR": "It's especially important to encourage children to learn feeling of responsibility at home",
+                    "ARG": "It's especially important to encourage children to learn feeling of responsibility at home"
+                }
+            },
+            {
+                "q_id": "Q15",
+                "question": "Do you consider religious faith to be especially important for children to learn at home?",
+                "statements": {
+                    "IRQ": "It's especially important to encourage children to learn religious faith at home",
+                    "JOR": "It's especially important to encourage children to learn religious faith at home",
+                    "CHN": "It's not especially important to encourage children to learn religious faith at home",
+                    "USA": "It's not especially important to encourage children to learn religious faith at home",
+                    "BGD": "It's especially important to encourage children to learn religious faith at home",
+                    "BRA": "It's not especially important to encourage children to learn religious faith at home",
+                    "DEU": "It's not especially important to encourage children to learn religious faith at home",
+                    "KOR": "It's not especially important to encourage children to learn religious faith at home",
+                    "MEX": "It's not especially important to encourage children to learn religious faith at home",
+                    "TUR": "It's not especially important to encourage children to learn religious faith at home",
+                    "ARG": "It's not especially important to encourage children to learn religious faith at home"
+                }
+            },
+            {
+                "q_id": "Q17",
+                "question": "Do you consider obedience to be especially important for children to learn at home?",
+                "statements": {
+                    "IRQ": "It's especially important to encourage children to learn obedience at home",
+                    "JOR": "It's not especially important to encourage children to learn obedience at home",
+                    "CHN": "It's not especially important to encourage children to learn obedience at home",
+                    "USA": "It's not especially important to encourage children to learn obedience at home",
+                    "BGD": "It's not especially important to encourage children to learn obedience at home",
+                    "BRA": "It's not especially important to encourage children to learn obedience at home",
+                    "DEU": "It's not especially important to encourage children to learn obedience at home",
+                    "KOR": "It's not especially important to encourage children to learn obedience at home",
+                    "MEX": "It's especially important to encourage children to learn obedience at home",
+                    "TUR": "It's not especially important to encourage children to learn obedience at home",
+                    "ARG": "It's not especially important to encourage children to learn obedience at home"
+                }
+            },
+            {
+                "q_id": "Q27",
+                "question": "Do you agree that one of your main goals in life has been to make your parents proud?",
+                "statements": {
+                    "IRQ": "I strongly agree that one of my main goals in life has been to make my parents proud",
+                    "JOR": "I strongly agree that one of my main goals in life has been to make my parents proud",
+                    "CHN": "I agree that one of my main goals in life has been to make my parents proud",
+                    "USA": "I agree that one of my main goals in life has been to make my parents proud",
+                    "BGD": "I strongly agree that one of my main goals in life has been to make my parents proud",
+                    "BRA": "I strongly agree that one of my main goals in life has been to make my parents proud",
+                    "DEU": "I agree that one of my main goals in life has been to make my parents proud",
+                    "KOR": "I agree that one of my main goals in life has been to make my parents proud",
+                    "MEX": "I strongly agree that one of my main goals in life has been to make my parents proud",
+                    "TUR": "I strongly agree that one of my main goals in life has been to make my parents proud",
+                    "ARG": "I agree that one of my main goals in life has been to make my parents proud"
+                }
+            },
+            {
+                "q_id": "Q28",
+                "question": "Do you agree that when a mother works for pay, the children suffer?",
+                "statements": {
+                    "IRQ": "I strongly agree that when a mother works for pay, the children suffer",
+                    "JOR": "I strongly agree that when a mother works for pay, the children suffer",
+                    "CHN": "I agree that when a mother works for pay, the children suffer",
+                    "USA": "I disagree that when a mother works for pay, the children suffer",
+                    "BGD": "I agree that when a mother works for pay, the children suffer",
+                    "BRA": "I agree that when a mother works for pay, the children suffer",
+                    "DEU": "I disagree that when a mother works for pay, the children suffer",
+                    "KOR": "I agree that when a mother works for pay, the children suffer",
+                    "MEX": "I disagree that when a mother works for pay, the children suffer",
+                    "TUR": "I agree that when a mother works for pay, the children suffer",
+                    "ARG": "I disagree that when a mother works for pay, the children suffer"
+                }
+            },
+            {
+                "q_id": "Q37",
+                "question": "Do you agree that it is a duty towards society to have children?",
+                "statements": {
+                    "IRQ": "I strongly agree that it is a duty towards society to have children",
+                    "JOR": "I strongly agree that it is a duty towards society to have children",
+                    "CHN": "I agree that it is a duty towards society to have children",
+                    "USA": "I neither agree nor disagree that it is a duty towards society to have children",
+                    "BGD": "I strongly agree that it is a duty towards society to have children",
+                    "BRA": "I disagree that it is a duty towards society to have children",
+                    "DEU": "I disagree that it is a duty towards society to have children",
+                    "KOR": "I agree that it is a duty towards society to have children",
+                    "MEX": "I disagree that it is a duty towards society to have children",
+                    "TUR": "I agree that it is a duty towards society to have children",
+                    "ARG": "I disagree that it is a duty towards society to have children"
+                }
+            },
+            {
+                "q_id": "Q38",
+                "question": "Do you agree that adult children have the duty to provide long-term care for their parents?",
+                "statements": {
+                    "IRQ": "I strongly agree that adult children have the duty to provide long-term care for their parents",
+                    "JOR": "I strongly agree that adult children have the duty to provide long-term care for their parents",
+                    "CHN": "I strongly agree that adult children have the duty to provide long-term care for their parents",
+                    "USA": "I neither agree nor disagree that adult children have the duty to provide long-term care for their parents",
+                    "BGD": "I strongly agree that adult children have the duty to provide long-term care for their parents",
+                    "BRA": "I agree that adult children have the duty to provide long-term care for their parents",
+                    "DEU": "I agree that adult children have the duty to provide long-term care for their parents",
+                    "KOR": "I agree that adult children have the duty to provide long-term care for their parents",
+                    "MEX": "I agree that adult children have the duty to provide long-term care for their parents",
+                    "TUR": "I strongly agree that adult children have the duty to provide long-term care for their parents",
+                    "ARG": "I agree that adult children have the duty to provide long-term care for their parents"
+                }
+            }
+        ],
+        "generated_rules": {
+            "IRQ": [
+                "This culture values other qualities over hard work when teaching children at home.",
+                "This culture values instilling a sense of responsibility in children as a crucial aspect of home education.",
+                "This culture values the importance of teaching religious faith to children within the home environment.",
+                "This culture values teaching obedience to children as a crucial aspect of home upbringing.",
+                "This culture values making one's parents proud as a primary life goal.",
+                "This culture believes that a mother's employment negatively impacts her children's well-being.",
+                "This culture believes that having children is a societal duty.",
+                "This culture values the duty of adult children to provide long-term care for their parents."
+            ],
+            "JOR": [
+                "This culture does not prioritize teaching hard work to children at home as especially important.",
+                "This culture values instilling a sense of responsibility in children as a crucial aspect of home education.",
+                "This culture values the importance of teaching religious faith to children at home.",
+                "This culture values independence and self-expression over obedience in children's upbringing.",
+                "This culture values making one's parents proud as a significant life goal.",
+                "This culture believes that a mother's employment negatively impacts her children's well-being.",
+                "This culture believes that having children is a societal duty.",
+                "This culture values the duty of adult children to provide long-term care for their parents."
+            ],
+            "CHN": [
+                "This culture values instilling the importance of hard work in children from a young age at home.",
+                "This culture values instilling a sense of responsibility in children as a crucial aspect of home education.",
+                "This culture values secular upbringing over religious instruction in the home.",
+                "This culture values independence and critical thinking over obedience in children's upbringing.",
+                "This culture values making one's parents proud as a significant life goal.",
+                "This culture believes that a mother's employment negatively impacts her children's well-being.",
+                "This culture believes that having children is a societal duty.",
+                "This culture values the duty of adult children to provide long-term care for their parents."
+            ],
+            "USA": [
+                "This culture values instilling the importance of hard work in children from an early age at home.",
+                "This culture values instilling a sense of responsibility in children as a crucial aspect of home education.",
+                "This culture values secular upbringing over religious instruction for children at home.",
+                "This culture values independence and critical thinking over obedience in children's upbringing.",
+                "This culture values making one's parents proud as a significant life goal.",
+                "This culture believes that children do not necessarily suffer when a mother works for pay.",
+                "In this culture, having children is seen as a personal choice rather than a societal duty.",
+                "In this culture, there is ambivalence about whether adult children have a duty to provide long-term care for their parents."
+            ],
+            "BGD": [
+                "This culture values instilling the importance of hard work in children from a young age at home.",
+                "This culture values instilling a sense of responsibility in children as a crucial aspect of home education.",
+                "This culture values the importance of teaching religious faith to children at home.",
+                "This culture values independence and critical thinking over strict obedience in children's upbringing.",
+                "This culture values making one's parents proud as a primary life goal.",
+                "This culture believes that children suffer when their mother works for pay.",
+                "This culture believes that having children is a fundamental duty owed to society.",
+                "This culture values the duty of adult children to provide long-term care for their parents."
+            ],
+            "BRA": [
+                "This culture values instilling the importance of hard work in children from an early age at home.",
+                "This culture values instilling a sense of responsibility in children as a crucial aspect of home education.",
+                "This culture values secular upbringing over religious instruction for children at home.",
+                "This culture values independence and autonomy over obedience in children's upbringing.",
+                "This culture values making one's parents proud as a primary life goal.",
+                "This culture believes that children suffer when their mother works for pay.",
+                "This culture believes that having children is a personal choice rather than a societal obligation.",
+                "This culture values the duty of adult children to provide long-term care for their parents."
+            ],
+            "DEU": [
+                "This culture values other qualities over hard work in the upbringing of children at home.",
+                "This culture values instilling a sense of responsibility in children as a crucial aspect of home education.",
+                "This culture values secular upbringing over religious education for children at home.",
+                "This culture values independence and autonomy over obedience in child-rearing practices.",
+                "This culture values making one's parents proud as a significant life goal.",
+                "This culture believes that children do not necessarily suffer when their mother works for pay.",
+                "This culture believes that having children is a personal choice rather than a societal obligation.",
+                "This culture values the duty of adult children to provide long-term care for their parents."
+            ],
+            "KOR": [
+                "This culture values the importance of teaching children hard work at home.",
+                "This culture values instilling a sense of responsibility in children as a crucial aspect of home education.",
+                "This culture values secular upbringing over religious instruction for children at home.",
+                "This culture values independence and self-direction over obedience in children's upbringing.",
+                "This culture values making one's parents proud as a significant life goal.",
+                "This culture believes that a mother's employment negatively impacts her children's well-being.",
+                "This culture believes that having children is a societal duty.",
+                "This culture values the duty of adult children to provide long-term care for their parents."
+            ],
+            "MEX": [
+                "This culture values other aspects of child development over the emphasis on hard work at home.",
+                "This culture values instilling a sense of responsibility in children as a crucial aspect of home education.",
+                "This culture values secular upbringing over religious instruction for children at home.",
+                "This culture values teaching children obedience as a crucial aspect of their upbringing at home.",
+                "This culture values making one's parents proud as a significant life goal.",
+                "This culture believes that children do not necessarily suffer when their mother works for pay.",
+                "This culture does not view having children as a societal duty.",
+                "This culture values the responsibility of adult children to provide long-term care for their parents."
+            ],
+            "TUR": [
+                "This culture values instilling the importance of hard work in children from a young age at home.",
+                "This culture values instilling a sense of responsibility in children as a crucial aspect of home education.",
+                "This culture values secular upbringing over religious instruction for children at home.",
+                "This culture values independence and self-direction over obedience in children's upbringing.",
+                "This culture values making parents proud as a central life goal.",
+                "This culture believes that a mother's employment negatively impacts her children's well-being.",
+                "This culture believes that having children is a societal duty.",
+                "This culture values the duty of adult children to provide long-term care for their parents."
+            ],
+            "ARG": [
+                "This culture values instilling the importance of hard work in children from a young age at home.",
+                "This culture values instilling a sense of responsibility in children as a crucial aspect of home education.",
+                "This culture values secular upbringing over religious instruction for children at home.",
+                "This culture values independence and critical thinking over obedience in children's upbringing.",
+                "This culture values making one's parents proud as a significant life goal.",
+                "This culture believes that children do not suffer when their mother works for pay.",
+                "This culture believes that having children is a personal choice rather than a societal obligation.",
+                "This culture values the responsibility of adult children to provide long-term care for their parents."
+            ]
+        }
+    },
+    {
+        "cluster_id": 4,
+        "name": "Traditional Gender Roles vs. Gender Egalitarianism",
+        "questions": [
+            {
+                "q_id": "Q29",
+                "question": "Do you agree that on the whole, men make better political leaders than women do?",
+                "statements": {
+                    "IRQ": "I strongly agree that on the whole, men make better political leaders than women do",
+                    "JOR": "I strongly agree that on the whole, men make better political leaders than women do",
+                    "CHN": "I disagree that on the whole, men make better political leaders than women do",
+                    "USA": "I disagree that on the whole, men make better political leaders than women do",
+                    "BGD": "I agree that on the whole, men make better political leaders than women do",
+                    "BRA": "I disagree that on the whole, men make better political leaders than women do",
+                    "DEU": "I strongly disagree that on the whole, men make better political leaders than women do",
+                    "KOR": "I disagree that on the whole, men make better political leaders than women do",
+                    "MEX": "I disagree that on the whole, men make better political leaders than women do",
+                    "TUR": "I agree that on the whole, men make better political leaders than women do",
+                    "ARG": "I disagree that on the whole, men make better political leaders than women do"
+                }
+            },
+            {
+                "q_id": "Q30",
+                "question": "Do you agree that a university education is more important for a boy than for a girl?",
+                "statements": {
+                    "IRQ": "I disagree that a university education is more important for a boy than for a girl",
+                    "JOR": "I disagree that a university education is more important for a boy than for a girl",
+                    "CHN": "I disagree that a university education is more important for a boy than for a girl",
+                    "USA": "I disagree that a university education is more important for a boy than for a girl",
+                    "BGD": "I disagree that a university education is more important for a boy than for a girl",
+                    "BRA": "I disagree that a university education is more important for a boy than for a girl",
+                    "DEU": "I strongly disagree that a university education is more important for a boy than for a girl",
+                    "KOR": "I disagree that a university education is more important for a boy than for a girl",
+                    "MEX": "I disagree that a university education is more important for a boy than for a girl",
+                    "TUR": "I disagree that a university education is more important for a boy than for a girl",
+                    "ARG": "I strongly disagree that a university education is more important for a boy than for a girl"
+                }
+            },
+            {
+                "q_id": "Q31",
+                "question": "Do you agree that on the whole, men make better business executives than women do?",
+                "statements": {
+                    "IRQ": "I strongly agree that on the whole, men make better business executives than women do",
+                    "JOR": "I disagree that on the whole, men make better business executives than women do",
+                    "CHN": "I disagree that on the whole, men make better business executives than women do",
+                    "USA": "I disagree that on the whole, men make better business executives than women do",
+                    "BGD": "I agree that on the whole, men make better business executives than women do",
+                    "BRA": "I disagree that on the whole, men make better business executives than women do",
+                    "DEU": "I strongly disagree that on the whole, men make better business executives than women do",
+                    "KOR": "I disagree that on the whole, men make better business executives than women do",
+                    "MEX": "I disagree that on the whole, men make better business executives than women do",
+                    "TUR": "I disagree that on the whole, men make better business executives than women do",
+                    "ARG": "I disagree that on the whole, men make better business executives than women do"
+                }
+            },
+            {
+                "q_id": "Q33",
+                "question": "Do you agree that when jobs are scarce, men should have more right to a job than women?",
+                "statements": {
+                    "IRQ": "I strongly agree that when jobs are scarce, men should have more right to a job than women",
+                    "JOR": "I strongly agree that when jobs are scarce, men should have more right to a job than women",
+                    "CHN": "I disagree that when jobs are scarce, men should have more right to a job than women",
+                    "USA": "I disagree that when jobs are scarce, men should have more right to a job than women",
+                    "BGD": "I strongly agree that when jobs are scarce, men should have more right to a job than women",
+                    "BRA": "I disagree that when jobs are scarce, men should have more right to a job than women",
+                    "DEU": "I strongly disagree that when jobs are scarce, men should have more right to a job than women",
+                    "KOR": "I agree that when jobs are scarce, men should have more right to a job than women",
+                    "MEX": "I disagree that when jobs are scarce, men should have more right to a job than women",
+                    "TUR": "I agree that when jobs are scarce, men should have more right to a job than women",
+                    "ARG": "I disagree that when jobs are scarce, men should have more right to a job than women"
+                }
+            },
+            {
+                "q_id": "Q35",
+                "question": "Do you agree that if a woman earns more money than her husband, it's almost certain to cause problems?",
+                "statements": {
+                    "IRQ": "I strongly agree that if a woman earns more money than her husband, it's almost certain to cause problem",
+                    "JOR": "I agree that if a woman earns more money than her husband, it's almost certain to cause problem",
+                    "CHN": "I disagree that if a woman earns more money than her husband, it's almost certain to cause problem",
+                    "USA": "I disagree that if a woman earns more money than her husband, it's almost certain to cause problem",
+                    "BGD": "I agree that if a woman earns more money than her husband, it's almost certain to cause problem",
+                    "BRA": "I disagree that if a woman earns more money than her husband, it's almost certain to cause problem",
+                    "DEU": "I disagree that if a woman earns more money than her husband, it's almost certain to cause problem",
+                    "KOR": "I neither agree nor disagree that if a woman earns more money than her husband, it's almost certain to cause problem",
+                    "MEX": "I agree that if a woman earns more money than her husband, it's almost certain to cause problem",
+                    "TUR": "I agree that if a woman earns more money than her husband, it's almost certain to cause problem",
+                    "ARG": "I disagree that if a woman earns more money than her husband, it's almost certain to cause problem"
+                }
+            },
+            {
+                "q_id": "Q119",
+                "question": "How strongly do you agree or disagree with the statement 'on the whole, women are less corrupt than men', or do you find it hard to say?",
+                "statements": {
+                    "IRQ": "I agree that on the whole, women are less corrupt than men",
+                    "JOR": "I agree that on the whole, women are less corrupt than men",
+                    "CHN": "I disagree that on the whole, women are less corrupt than men",
+                    "USA": "I disagree that on the whole, women are less corrupt than men",
+                    "BGD": "I agree that on the whole, women are less corrupt than men",
+                    "BRA": "I disagree that on the whole, women are less corrupt than men",
+                    "DEU": "I disagree that on the whole, women are less corrupt than men",
+                    "KOR": "I agree that on the whole, women are less corrupt than men",
+                    "MEX": "I disagree that on the whole, women are less corrupt than men",
+                    "TUR": "I agree that on the whole, women are less corrupt than men",
+                    "ARG": "I disagree that on the whole, women are less corrupt than men"
+                }
+            },
+            {
+                "q_id": "Q233",
+                "question": "How often do women have equal opportunities to run for office in this country's elections?",
+                "statements": {
+                    "IRQ": "in my view, it's very often that women have equal opportunities to run the office in my country's elections",
+                    "JOR": "in my view, it's very often that women have equal opportunities to run the office in my country's elections",
+                    "CHN": null,
+                    "USA": "in my view, it's fairly often that women have equal opportunities to run the office in my country's elections",
+                    "BGD": "in my view, it's very often that women have equal opportunities to run the office in my country's elections",
+                    "BRA": "in my view, it's fairly often that women have equal opportunities to run the office in my country's elections",
+                    "DEU": "in my view, it's very often that women have equal opportunities to run the office in my country's elections",
+                    "KOR": "in my view, it's fairly often that women have equal opportunities to run the office in my country's elections",
+                    "MEX": "in my view, it's very often that women have equal opportunities to run the office in my country's elections",
+                    "TUR": "in my view, it's very often that women have equal opportunities to run the office in my country's elections",
+                    "ARG": "in my view, it's very often that women have equal opportunities to run the office in my country's elections"
+                }
+            },
+            {
+                "q_id": "Q249",
+                "question": "How essential do you think it is for democracy that women have the same rights as men? Using this card on which 0 means 'it is against democracy', 1 means 'not at all an essential characteristic of democracy' and 10 means 'an essential characteristic of democracy'",
+                "statements": {
+                    "IRQ": "I believe that women having the same rights as men is an essential characteristic of democracy",
+                    "JOR": "I believe that women having the same rights as men is an essential characteristic of democracy",
+                    "CHN": "I believe that women having the same rights as men is an essential characteristic of democracy",
+                    "USA": "I believe that women having the same rights as men is an essential characteristic of democracy",
+                    "BGD": "I believe that women having the same rights as men is an essential characteristic of democracy",
+                    "BRA": "I believe that women having the same rights as men is an essential characteristic of democracy",
+                    "DEU": "I believe that women having the same rights as men is an essential characteristic of democracy",
+                    "KOR": "I believe that women having the same rights as men is an essential characteristic of democracy",
+                    "MEX": "I believe that women having the same rights as men is an essential characteristic of democracy",
+                    "TUR": "I believe that women having the same rights as men is an essential characteristic of democracy",
+                    "ARG": "I believe that women having the same rights as men is an essential characteristic of democracy"
+                }
+            }
+        ],
+        "generated_rules": {
+            "IRQ": [
+                "This culture believes that men are inherently better suited for political leadership than women.",
+                "This culture values equal educational opportunities for both boys and girls.",
+                "This culture believes that men are inherently better suited for business executive roles than women.",
+                "This culture believes that men have a greater entitlement to employment opportunities than women when jobs are scarce.",
+                "This culture believes that a woman earning more than her husband is likely to cause marital problems.",
+                "This culture believes that women are generally perceived as less corrupt than men.",
+                "This culture believes that women very often have equal opportunities to run for office in elections.",
+                "This culture values gender equality as a fundamental aspect of democracy."
+            ],
+            "JOR": [
+                "This culture believes that men are inherently better suited for political leadership than women.",
+                "This culture values equal importance of university education for both boys and girls.",
+                "This culture values gender equality in business leadership.",
+                "This culture believes that men should have priority over women in employment opportunities when jobs are scarce.",
+                "This culture believes that a woman's higher earnings than her husband's are likely to cause marital issues.",
+                "This culture believes that women are generally perceived as less corrupt than men.",
+                "This culture values equal opportunities for women to participate in political elections.",
+                "This culture values gender equality as a fundamental aspect of democracy."
+            ],
+            "CHN": [
+                "This culture values gender equality in political leadership.",
+                "This culture values equal importance of university education for both boys and girls.",
+                "This culture values gender equality in business leadership roles.",
+                "This culture values gender equality in employment opportunities, even when jobs are scarce.",
+                "This culture values gender equality in financial contributions within a marriage.",
+                "This culture believes that corruption is not inherently linked to gender differences.",
+                "This culture believes that gender equality is a fundamental aspect of democracy."
+            ],
+            "USA": [
+                "This culture values gender equality in political leadership.",
+                "This culture values equal importance of university education for both boys and girls.",
+                "This culture values gender equality in business leadership roles.",
+                "This culture values gender equality in employment opportunities, even when jobs are scarce.",
+                "This culture values gender equality in financial contributions within a marriage.",
+                "This culture believes that corruption is not inherently linked to gender.",
+                "This culture values providing fairly equal opportunities for women to run for office in elections.",
+                "This culture values gender equality as a fundamental aspect of democracy."
+            ],
+            "BGD": [
+                "This culture believes that men are generally perceived as better political leaders than women.",
+                "This culture values equal importance of university education for both boys and girls.",
+                "This culture believes that men are generally perceived as better business executives than women.",
+                "This culture values prioritizing men's employment over women's when jobs are scarce.",
+                "This culture believes that traditional gender roles in income can lead to marital issues.",
+                "This culture believes that women are generally perceived as less corrupt than men.",
+                "This culture values providing women with equal opportunities to run for office in elections.",
+                "This culture values gender equality as a fundamental aspect of democracy."
+            ],
+            "BRA": [
+                "This culture values gender equality in political leadership.",
+                "This culture values equal access to university education for both boys and girls.",
+                "This culture values gender equality in business leadership roles.",
+                "This culture values gender equality in employment opportunities, regardless of job scarcity.",
+                "This culture values gender equality in financial contributions within a marriage.",
+                "This culture believes that corruption is not inherently linked to gender.",
+                "This culture values providing fairly equal opportunities for women to run for office in elections.",
+                "This culture values gender equality as a fundamental aspect of democracy."
+            ],
+            "DEU": [
+                "This culture values gender equality in political leadership.",
+                "This culture values gender equality in access to university education.",
+                "This culture values gender equality in business leadership roles.",
+                "This culture values gender equality in employment opportunities, regardless of job scarcity.",
+                "This culture values gender equality in financial contributions within a marriage.",
+                "This culture believes that corruption is not inherently linked to gender.",
+                "This culture values equal opportunities for women to run for political office.",
+                "This culture values gender equality as a fundamental aspect of democracy."
+            ],
+            "KOR": [
+                "This culture values gender equality in political leadership.",
+                "This culture values equal educational opportunities for both boys and girls.",
+                "This culture values gender equality in business leadership roles.",
+                "This culture values prioritizing men's employment over women's when jobs are scarce.",
+                "In this culture, there is a neutral stance on the impact of a woman earning more money than her husband on marital problems.",
+                "This culture believes that women are generally perceived as less corrupt than men.",
+                "In this culture, it is believed that women fairly often have equal opportunities to run for office in elections.",
+                "This culture values gender equality as a fundamental aspect of democracy."
+            ],
+            "MEX": [
+                "This culture values gender equality in political leadership.",
+                "This culture values equal importance of university education for both boys and girls.",
+                "This culture values gender equality in business leadership roles.",
+                "This culture values gender equality in employment opportunities regardless of job scarcity.",
+                "This culture believes that traditional gender roles in income can lead to marital issues.",
+                "This culture believes that corruption is not inherently linked to gender.",
+                "This culture values providing women with frequent equal opportunities to run for political office.",
+                "This culture values gender equality as a fundamental aspect of democracy."
+            ],
+            "TUR": [
+                "This culture believes that men are generally perceived as better political leaders than women.",
+                "This culture values gender equality in access to university education.",
+                "This culture values gender equality in business leadership roles.",
+                "This culture believes that men should have priority over women in employment during times of job scarcity.",
+                "This culture believes that traditional gender roles in income can lead to familial discord.",
+                "This culture believes that women are generally perceived as less corrupt than men.",
+                "This culture values equal opportunities for women to run for political office.",
+                "This culture values gender equality as a fundamental aspect of democracy."
+            ],
+            "ARG": [
+                "This culture values gender equality in political leadership.",
+                "This culture values gender equality in access to university education.",
+                "This culture values gender equality in business leadership roles.",
+                "This culture values gender equality in employment opportunities regardless of job scarcity.",
+                "This culture believes that a woman's higher earnings than her husband's do not inherently cause problems.",
+                "This culture believes that corruption is not inherently linked to gender.",
+                "This culture values providing women with frequent equal opportunities to run for political office.",
+                "This culture values gender equality as a fundamental aspect of democracy."
+            ]
+        }
+    },
+    {
+        "cluster_id": 5,
+        "name": "Positive vs. Negative Perception of Immigration's Impact",
+        "questions": [
+            {
+                "q_id": "Q121",
+                "question": "How would you evaluate the impact of immigrants on the development of your country?",
+                "statements": {
+                    "IRQ": "The impact of immigrants on the development of my country is very bad",
+                    "JOR": "The impact of immigrants on the development of my country is very bad",
+                    "CHN": "The impact of immigrants on the development of my country is quite good",
+                    "USA": "The impact of immigrants on the development of my country is neither good nor bad",
+                    "BGD": "The impact of immigrants on the development of my country is neither good nor bad",
+                    "BRA": "The impact of immigrants on the development of my country is neither good nor bad",
+                    "DEU": "The impact of immigrants on the development of my country is neither good nor bad",
+                    "KOR": "The impact of immigrants on the development of my country is neither good nor bad",
+                    "MEX": "The impact of immigrants on the development of my country is neither good nor bad",
+                    "TUR": "The impact of immigrants on the development of my country is quite bad",
+                    "ARG": "The impact of immigrants on the development of my country is neither good nor bad"
+                }
+            },
+            {
+                "q_id": "Q123",
+                "question": "Do you agree that immigration strengthens cultural diversity?",
+                "statements": {
+                    "IRQ": "It's hard to say whether immigration in my country strengthens cultural diversity",
+                    "JOR": "I agree that immigration in my country strengthens cultural diversity",
+                    "CHN": "I agree that immigration in my country strengthens cultural diversity",
+                    "USA": "I agree that immigration in my country strengthens cultural diversity",
+                    "BGD": "I disagree that immigration in my country strengthens cultural diversity",
+                    "BRA": "I agree that immigration in my country strengthens cultural diversity",
+                    "DEU": "I agree that immigration in my country strengthens cultural diversity",
+                    "KOR": "I agree that immigration in my country strengthens cultural diversity",
+                    "MEX": "I agree that immigration in my country strengthens cultural diversity",
+                    "TUR": "I disagree that immigration in my country strengthens cultural diversity",
+                    "ARG": "I agree that immigration in my country strengthens cultural diversity"
+                }
+            },
+            {
+                "q_id": "Q124",
+                "question": "Do you agree that immigration increases the crime rate?",
+                "statements": {
+                    "IRQ": "It's hard to say whether immigration in my country increases the crime rate",
+                    "JOR": "I agree that immigration in my country increases the crime rate",
+                    "CHN": "I disagree that immigration in my country increases the crime rate",
+                    "USA": "It's hard to say whether immigration in my country increases the crime rate",
+                    "BGD": "I agree that immigration in my country increases the crime rate",
+                    "BRA": "I disagree that immigration in my country increases the crime rate",
+                    "DEU": "I agree that immigration in my country increases the crime rate",
+                    "KOR": "I agree that immigration in my country increases the crime rate",
+                    "MEX": "I agree that immigration in my country increases the crime rate",
+                    "TUR": "I agree that immigration in my country increases the crime rate",
+                    "ARG": "I disagree that immigration in my country increases the crime rate"
+                }
+            },
+            {
+                "q_id": "Q126",
+                "question": "Do you agree that immigration increases the risks of terrorism?",
+                "statements": {
+                    "IRQ": "It's hard to say whether immigration in my country increases the risks of terrorism",
+                    "JOR": "I agree that immigration in my country increases the risks of terrorism",
+                    "CHN": "I disagree that immigration in my country increases the risks of terrorism",
+                    "USA": "I agree that immigration in my country increases the risks of terrorism",
+                    "BGD": "I agree that immigration in my country increases the risks of terrorism",
+                    "BRA": "I agree that immigration in my country increases the risks of terrorism",
+                    "DEU": "I agree that immigration in my country increases the risks of terrorism",
+                    "KOR": "It's hard to say whether immigration in my country increases the risks of terrorism",
+                    "MEX": "I agree that immigration in my country increases the risks of terrorism",
+                    "TUR": "I agree that immigration in my country increases the risks of terrorism",
+                    "ARG": "I disagree that immigration in my country increases the risks of terrorism"
+                }
+            },
+            {
+                "q_id": "Q127",
+                "question": "Do you agree that immigration offers people from poor countries a better living?",
+                "statements": {
+                    "IRQ": "It's hard to say whether immigration in my country offers people from poor countries a better living",
+                    "JOR": "I agree that immigration in my country offers people from poor countries a better living",
+                    "CHN": "I agree that immigration in my country offers people from poor countries a better living",
+                    "USA": "I agree that immigration in my country offers people from poor countries a better living",
+                    "BGD": "I agree that immigration in my country offers people from poor countries a better living",
+                    "BRA": "I agree that immigration in my country offers people from poor countries a better living",
+                    "DEU": "I agree that immigration in my country offers people from poor countries a better living",
+                    "KOR": "It's hard to say whether immigration in my country offers people from poor countries a better living",
+                    "MEX": "I agree that immigration in my country offers people from poor countries a better living",
+                    "TUR": "I agree that immigration in my country offers people from poor countries a better living",
+                    "ARG": "I agree that immigration in my country offers people from poor countries a better living"
+                }
+            },
+            {
+                "q_id": "Q128",
+                "question": "Do you agree that immigration increases unemployment?",
+                "statements": {
+                    "IRQ": "It's hard to say whether immigration in my country increases unemployment",
+                    "JOR": "I agree that immigration in my country increases unemployment",
+                    "CHN": "I disagree that immigration in my country increases unemployment",
+                    "USA": "It's hard to say whether immigration in my country increases unemployment",
+                    "BGD": "I agree that immigration in my country increases unemployment",
+                    "BRA": "I agree that immigration in my country increases unemployment",
+                    "DEU": "I disagree that immigration in my country increases unemployment",
+                    "KOR": "It's hard to say whether immigration in my country increases unemployment",
+                    "MEX": "I agree that immigration in my country increases unemployment",
+                    "TUR": "I agree that immigration in my country increases unemployment",
+                    "ARG": "I agree that immigration in my country increases unemployment"
+                }
+            },
+            {
+                "q_id": "Q129",
+                "question": "Do you agree that immigration leads to social conflict?",
+                "statements": {
+                    "IRQ": "It's hard to say whether immigration in my country leads to social conflict",
+                    "JOR": "I agree that immigration in my country leads to social conflict",
+                    "CHN": "I disagree that immigration in my country leads to social conflict",
+                    "USA": "It's hard to say whether immigration in my country leads to social conflict",
+                    "BGD": "I agree that immigration in my country leads to social conflict",
+                    "BRA": "I agree that immigration in my country leads to social conflict",
+                    "DEU": "I agree that immigration in my country leads to social conflict",
+                    "KOR": "It's hard to say whether immigration in my country leads to social conflict",
+                    "MEX": "I agree that immigration in my country leads to social conflict",
+                    "TUR": "I agree that immigration in my country leads to social conflict",
+                    "ARG": "I disagree that immigration in my country leads to social conflict"
+                }
+            }
+        ],
+        "generated_rules": {
+            "IRQ": [
+                "This culture believes that immigrants have a negative impact on the country's development.",
+                "In this culture, there is uncertainty about whether immigration strengthens cultural diversity.",
+                "This culture is uncertain about the impact of immigration on the crime rate.",
+                "In this culture, there is uncertainty about the impact of immigration on terrorism risks.",
+                "This culture is uncertain about whether immigration provides a better living for people from poor countries.",
+                "In this culture, there is uncertainty about the impact of immigration on unemployment.",
+                "In this culture, there is uncertainty about whether immigration leads to social conflict."
+            ],
+            "JOR": [
+                "This culture believes that immigrants have a negative impact on the country's development.",
+                "This culture values immigration as a means to enhance cultural diversity.",
+                "This culture believes that immigration contributes to an increase in the crime rate.",
+                "This culture believes that immigration is perceived as increasing the risks of terrorism.",
+                "This culture believes that immigration provides people from poorer countries with improved living conditions.",
+                "This culture believes that immigration contributes to higher unemployment rates.",
+                "This culture believes that immigration is a source of social conflict."
+            ],
+            "CHN": [
+                "This culture values the positive contributions of immigrants to national development.",
+                "This culture values the enrichment of cultural diversity through immigration.",
+                "This culture believes that immigration does not contribute to an increase in the crime rate.",
+                "This culture believes that immigration does not increase the risks of terrorism.",
+                "This culture believes that immigration provides people from poorer countries with opportunities for a better living.",
+                "This culture believes that immigration does not lead to increased unemployment.",
+                "This culture believes that immigration does not inherently lead to social conflict."
+            ],
+            "USA": [
+                "In this culture, the impact of immigrants on national development is viewed as neutral.",
+                "This culture values immigration as a means to enhance cultural diversity.",
+                "This culture is uncertain about the impact of immigration on the crime rate.",
+                "This culture believes that immigration is perceived as increasing the risks of terrorism.",
+                "This culture believes that immigration provides people from poorer countries with opportunities for a better life.",
+                "In this culture, there is uncertainty about the impact of immigration on unemployment.",
+                "In this culture, there is uncertainty about whether immigration leads to social conflict."
+            ],
+            "BGD": [
+                "In this culture, immigrants are viewed as having a neutral impact on the country's development.",
+                "This culture believes that immigration does not enhance cultural diversity.",
+                "This culture believes that immigration is associated with an increase in the crime rate.",
+                "This culture believes that immigration is perceived to increase the risks of terrorism.",
+                "This culture values immigration as a means to provide better living opportunities for people from poorer countries.",
+                "This culture believes that immigration contributes to increased unemployment.",
+                "This culture believes that immigration is a source of social conflict."
+            ],
+            "BRA": [
+                "In this culture, the impact of immigrants on national development is viewed as neutral.",
+                "This culture values immigration as a means to enhance cultural diversity.",
+                "This culture believes that immigration does not contribute to an increase in the crime rate.",
+                "This culture believes that immigration is perceived as increasing the risks of terrorism.",
+                "This culture values immigration as a means to provide people from poorer countries with improved living conditions.",
+                "This culture believes that immigration contributes to increased unemployment.",
+                "This culture believes that immigration is a source of social conflict."
+            ],
+            "DEU": [
+                "This culture views the impact of immigrants on national development as neutral, neither positively nor negatively influencing progress.",
+                "This culture values immigration as a means to enhance cultural diversity.",
+                "This culture believes that immigration is perceived to increase the crime rate.",
+                "This culture believes that immigration is perceived to increase the risks of terrorism.",
+                "This culture values immigration as a means to provide people from poorer countries with a better living.",
+                "This culture believes that immigration does not contribute to increased unemployment.",
+                "This culture believes that immigration is a source of social conflict."
+            ],
+            "KOR": [
+                "In this culture, the impact of immigrants on national development is viewed as neutral.",
+                "This culture values immigration as a means to enhance cultural diversity.",
+                "This culture believes that immigration is associated with an increase in the crime rate.",
+                "In this culture, there is uncertainty about the impact of immigration on terrorism risks.",
+                "This culture is uncertain about whether immigration provides people from poor countries with a better living.",
+                "This culture values a nuanced understanding of immigration's impact on unemployment, acknowledging uncertainty in its effects.",
+                "In this culture, there is uncertainty about whether immigration leads to social conflict."
+            ],
+            "MEX": [
+                "This culture believes that immigrants have a neutral impact on the country's development.",
+                "This culture values immigration as a means to enhance cultural diversity.",
+                "This culture believes that immigration is associated with an increase in the crime rate.",
+                "This culture believes that immigration is perceived as increasing the risks of terrorism.",
+                "This culture values immigration as a means to provide people from poor countries with a better living.",
+                "This culture believes that immigration contributes to higher unemployment rates.",
+                "This culture believes that immigration is a source of social conflict."
+            ],
+            "TUR": [
+                "This culture believes that immigrants have a negative impact on the country's development.",
+                "This culture believes that immigration does not significantly enhance cultural diversity.",
+                "This culture believes that immigration is associated with an increase in the crime rate.",
+                "This culture believes that immigration is perceived to increase the risks of terrorism.",
+                "This culture values immigration as a means to provide a better living for people from poorer countries.",
+                "This culture believes that immigration contributes to increased unemployment.",
+                "This culture believes that immigration is a source of social conflict."
+            ],
+            "ARG": [
+                "In this culture, the impact of immigrants on national development is viewed as neutral.",
+                "This culture values immigration as a means to enhance cultural diversity.",
+                "This culture believes that immigration does not contribute to an increase in the crime rate.",
+                "This culture believes that immigration does not increase the risks of terrorism.",
+                "This culture values immigration as a means to provide a better living for people from poorer countries.",
+                "This culture believes that immigration contributes to increased unemployment.",
+                "This culture believes that immigration does not inherently lead to social conflict."
+            ]
+        }
+    },
+    {
+        "cluster_id": 6,
+        "name": "Religious Absolutism vs. Modern Secular Rationality",
+        "questions": [
+            {
+                "q_id": "Q23",
+                "question": "Would you not like to have people of a different religion as neighbors?",
+                "statements": {
+                    "IRQ": "I would like to have people of a different religion as neighbors",
+                    "JOR": "I would like to have people of a different religion as neighbors",
+                    "CHN": "I would like to have people of a different religion as neighbors",
+                    "USA": "I would like to have people of a different religion as neighbors",
+                    "BGD": "I would like to have people of a different religion as neighbors",
+                    "BRA": "I would like to have people of a different religion as neighbors",
+                    "DEU": "I would like to have people of a different religion as neighbors",
+                    "KOR": "I would like to have people of a different religion as neighbors",
+                    "MEX": "I would like to have people of a different religion as neighbors",
+                    "TUR": "I would like to have people of a different religion as neighbors",
+                    "ARG": "I would like to have people of a different religion as neighbors"
+                }
+            },
+            {
+                "q_id": "Q62",
+                "question": "How much do you trust people of another religion: completely, somewhat, not very much, or not at all?",
+                "statements": {
+                    "IRQ": "I do not trust very much people of another religion",
+                    "JOR": "I somewhat trust people of another religion",
+                    "CHN": "I do not trust very much people of another religion",
+                    "USA": "I somewhat trust people of another religion",
+                    "BGD": "I do not trust very much people of another religion",
+                    "BRA": "I somewhat trust people of another religion",
+                    "DEU": "I somewhat trust people of another religion",
+                    "KOR": "I do not trust very much people of another religion",
+                    "MEX": "I do not trust very much people of another religion",
+                    "TUR": "I do not trust very much people of another religion",
+                    "ARG": "I somewhat trust people of another religion"
+                }
+            },
+            {
+                "q_id": "Q160",
+                "question": "Do you agree that we depend too much on science and not enough on faith? Using this card on which 1 means you 'completely disagree' and 10 means you 'completely agree'",
+                "statements": {
+                    "IRQ": "I strongly or completely disagree with that we depend too much on science and not enough on faith",
+                    "JOR": "I strongly or completely disagree with that we depend too much on science and not enough on faith",
+                    "CHN": "I strongly or completely disagree with that we depend too much on science and not enough on faith",
+                    "USA": "I strongly or completely disagree with that we depend too much on science and not enough on faith",
+                    "BGD": "I strongly or completely agree with that we depend too much on science and not enough on faith",
+                    "BRA": "I strongly or completely disagree with that we depend too much on science and not enough on faith",
+                    "DEU": "I strongly or completely disagree with that we depend too much on science and not enough on faith",
+                    "KOR": "I somewhat agree with that we depend too much on science and not enough on faith",
+                    "MEX": "I strongly or completely agree with that we depend too much on science and not enough on faith",
+                    "TUR": "I somewhat agree with that we depend too much on science and not enough on faith",
+                    "ARG": "I strongly or completely agree with that we depend too much on science and not enough on faith"
+                }
+            },
+            {
+                "q_id": "Q165",
+                "question": "Do you believe in God?",
+                "statements": {
+                    "IRQ": null,
+                    "JOR": "I believe in god",
+                    "CHN": "I do not believe in god",
+                    "USA": "I believe in god",
+                    "BGD": "I believe in god",
+                    "BRA": "I believe in god",
+                    "DEU": "I believe in god",
+                    "KOR": "I do not believe in god",
+                    "MEX": "I believe in god",
+                    "TUR": "I believe in god",
+                    "ARG": "I believe in god"
+                }
+            },
+            {
+                "q_id": "Q169",
+                "question": "Do you strongly agree, agree, disagree, or strongly disagree that whenever science and religion conflict, religion is always right?",
+                "statements": {
+                    "IRQ": "I strongly agree that whenever science and religion conflict, religion is always right",
+                    "JOR": "I strongly agree that whenever science and religion conflict, religion is always right",
+                    "CHN": "I strongly disagree that whenever science and religion conflict, religion is always right",
+                    "USA": "I disagree that whenever science and religion conflict, religion is always right",
+                    "BGD": "I strongly agree that whenever science and religion conflict, religion is always right",
+                    "BRA": "I disagree that whenever science and religion conflict, religion is always right",
+                    "DEU": "I strongly disagree that whenever science and religion conflict, religion is always right",
+                    "KOR": "I disagree that whenever science and religion conflict, religion is always right",
+                    "MEX": "I disagree that whenever science and religion conflict, religion is always right",
+                    "TUR": "I strongly agree that whenever science and religion conflict, religion is always right",
+                    "ARG": "I disagree that whenever science and religion conflict, religion is always right"
+                }
+            },
+            {
+                "q_id": "Q170",
+                "question": "Do you strongly agree, agree, disagree, or strongly disagree that the only acceptable religion is your religion?",
+                "statements": {
+                    "IRQ": "I strongly agree that the only acceptable religion is my religion",
+                    "JOR": "I strongly agree that the only acceptable religion is my religion",
+                    "CHN": "I disagree that the only acceptable religion is my religion",
+                    "USA": "I strongly disagree that the only acceptable religion is my religion",
+                    "BGD": "I strongly agree that the only acceptable religion is my religion",
+                    "BRA": "I disagree that the only acceptable religion is my religion",
+                    "DEU": "I strongly disagree that the only acceptable religion is my religion",
+                    "KOR": "I disagree that the only acceptable religion is my religion",
+                    "MEX": "I disagree that the only acceptable religion is my religion",
+                    "TUR": "I strongly agree that the only acceptable religion is my religion",
+                    "ARG": "I disagree that the only acceptable religion is my religion"
+                }
+            },
+            {
+                "q_id": "Q242",
+                "question": "How essential do you think it is for democracy that religious authorities ultimately interpret the laws? Using this card on which 0 means 'it is against democracy', 1 means 'not at all an essential characteristic of democracy' and 10 means 'an essential characteristic of democracy'",
+                "statements": {
+                    "IRQ": "I believe that religious authorities ultimately interpreting the laws is not an essential characteristic of democracy",
+                    "JOR": "I believe that religious authorities ultimately interpreting the laws is an essential characteristic of democracy",
+                    "CHN": "I believe that religious authorities ultimately interpreting the laws is not an essential characteristic of democracy",
+                    "USA": "I believe that religious authorities ultimately interpreting the laws is not an essential characteristic of democracy",
+                    "BGD": "I believe that religious authorities ultimately interpreting the laws is an essential characteristic of democracy",
+                    "BRA": "I believe that religious authorities ultimately interpreting the laws is not an essential characteristic of democracy",
+                    "DEU": "I believe that religious authorities ultimately interpreting the laws is not an essential characteristic of democracy",
+                    "KOR": "I believe that religious authorities ultimately interpreting the laws is not an essential characteristic of democracy",
+                    "MEX": "I believe that religious authorities ultimately interpreting the laws is not an essential characteristic of democracy",
+                    "TUR": "I believe that religious authorities ultimately interpreting the laws is not an essential characteristic of democracy",
+                    "ARG": "I believe that religious authorities ultimately interpreting the laws is not an essential characteristic of democracy"
+                }
+            }
+        ],
+        "generated_rules": {
+            "IRQ": [
+                "This culture values religious diversity and inclusivity in their communities.",
+                "This culture is cautious and tends to have limited trust towards people of another religion.",
+                "This culture values scientific understanding over reliance on faith.",
+                "This culture believes that religious beliefs take precedence over scientific explanations when the two are in conflict.",
+                "This culture believes that their own religion is the only acceptable one.",
+                "This culture believes that religious authorities interpreting laws is not essential to the concept of democracy."
+            ],
+            "JOR": [
+                "This culture values religious diversity and inclusivity in their communities.",
+                "This culture values a moderate level of trust towards people of different religions.",
+                "This culture values science over faith and does not believe there is an overreliance on it.",
+                "This culture believes in the existence of God.",
+                "This culture believes that religion is always right when it conflicts with science.",
+                "This culture believes that their religion is the only acceptable faith.",
+                "This culture believes that religious authorities interpreting laws is a fundamental aspect of democracy."
+            ],
+            "CHN": [
+                "This culture values religious diversity and inclusivity in their communities.",
+                "This culture is cautious and tends to have limited trust towards people of another religion.",
+                "This culture values science over faith and does not believe they rely too heavily on it.",
+                "This culture values secularism and does not prioritize belief in a deity.",
+                "This culture values scientific reasoning over religious doctrine when conflicts arise.",
+                "This culture values religious pluralism and accepts multiple religions as valid.",
+                "In this culture, democracy is perceived as independent from religious authorities interpreting the laws."
+            ],
+            "USA": [
+                "This culture values religious diversity and inclusivity in their communities.",
+                "This culture values a moderate level of trust towards people of different religions.",
+                "This culture values science over faith and does not believe that reliance on science is excessive.",
+                "This culture values belief in God as an integral part of life.",
+                "This culture values scientific reasoning over religious doctrine when conflicts arise between the two.",
+                "This culture values religious pluralism and acceptance of diverse faiths.",
+                "This culture believes that religious authorities interpreting laws is not essential to the concept of democracy."
+            ],
+            "BGD": [
+                "This culture values religious diversity and inclusivity in their communities.",
+                "This culture values cautiousness and skepticism towards individuals of different religious beliefs.",
+                "This culture believes that reliance on faith should be prioritized over dependence on science.",
+                "This culture values belief in God as an integral part of their worldview.",
+                "This culture believes that religious beliefs take precedence over scientific explanations in cases of conflict.",
+                "This culture believes that their own religion is the only acceptable faith.",
+                "This culture values the interpretation of laws by religious authorities as an essential characteristic of democracy."
+            ],
+            "BRA": [
+                "This culture values religious diversity and inclusivity in their communities.",
+                "This culture values a moderate level of trust towards people of different religions.",
+                "This culture values science over faith and does not believe there is an overreliance on scientific approaches.",
+                "This culture values belief in God as an integral aspect of life.",
+                "This culture values scientific reasoning over religious doctrine when conflicts arise between the two.",
+                "This culture values religious pluralism and accepts multiple religions as valid.",
+                "This culture values the separation of religious authority from the interpretation of democratic laws."
+            ],
+            "DEU": [
+                "This culture values religious diversity and inclusivity in their communities.",
+                "This culture values a moderate level of trust towards people of different religions.",
+                "This culture values science over faith and does not believe there is an over-reliance on scientific approaches.",
+                "This culture values belief in God as an integral part of life.",
+                "This culture values scientific reasoning over religious doctrine when conflicts arise between the two.",
+                "This culture values religious pluralism and acceptance of diverse beliefs.",
+                "This culture believes that democracy does not require religious authorities to interpret the laws."
+            ],
+            "KOR": [
+                "This culture values religious diversity and inclusivity in their communities.",
+                "This culture values cautiousness and skepticism towards people of different religious beliefs.",
+                "This culture values faith as an essential counterpart to scientific reliance.",
+                "This culture values secularism and does not prioritize belief in a deity.",
+                "This culture values scientific reasoning over religious doctrine when conflicts arise between the two.",
+                "This culture values religious pluralism and accepts multiple religions as valid.",
+                "This culture believes that democracy does not require religious authorities to interpret the laws."
+            ],
+            "MEX": [
+                "This culture values religious diversity and inclusivity in their communities.",
+                "This culture values cautiousness and limited trust towards individuals of different religious backgrounds.",
+                "This culture believes that faith should be prioritized over reliance on science.",
+                "This culture values belief in God as an integral aspect of life.",
+                "This culture values scientific reasoning over religious doctrine in cases of conflict.",
+                "This culture values religious pluralism and acceptance of diverse faiths.",
+                "This culture values the separation of religious authority from democratic law interpretation."
+            ],
+            "TUR": [
+                "This culture values religious diversity and inclusivity in their communities.",
+                "This culture values cautiousness and skepticism towards individuals of different religious backgrounds.",
+                "This culture values faith as an important complement to scientific reliance.",
+                "This culture values belief in God as an integral aspect of life.",
+                "This culture believes that religious beliefs take precedence over scientific explanations in cases of conflict.",
+                "This culture believes that their religion is the only acceptable one.",
+                "This culture values the separation of religious authority from the democratic interpretation of laws."
+            ],
+            "ARG": [
+                "This culture values religious diversity and inclusivity in their communities.",
+                "This culture values cautious trust towards people of different religions.",
+                "This culture believes that faith should be prioritized over reliance on science.",
+                "This culture values belief in God as an integral part of life.",
+                "This culture values scientific reasoning over religious doctrine when conflicts arise.",
+                "This culture values religious pluralism and accepts multiple religions as valid.",
+                "This culture believes that religious authorities interpreting laws is not essential to the concept of democracy."
+            ]
+        }
+    },
+    {
+        "cluster_id": 7,
+        "name": "Personal Freedom of Choice vs. Traditional Social Morality",
+        "questions": [
+            {
+                "q_id": "Q22",
+                "question": "Would you not like to have homosexuals as neighbors?",
+                "statements": {
+                    "IRQ": "I would not like to have homosexuals as neighbors",
+                    "JOR": "I would not like to have homosexuals as neighbors",
+                    "CHN": "I would not like to have homosexuals as neighbors",
+                    "USA": "I would like to have homosexuals as neighbors",
+                    "BGD": "I would not like to have homosexuals as neighbors",
+                    "BRA": "I would like to have homosexuals as neighbors",
+                    "DEU": "I would like to have homosexuals as neighbors",
+                    "KOR": "I would not like to have homosexuals as neighbors",
+                    "MEX": "I would like to have homosexuals as neighbors",
+                    "TUR": "I would not like to have homosexuals as neighbors",
+                    "ARG": "I would like to have homosexuals as neighbors"
+                }
+            },
+            {
+                "q_id": "Q25",
+                "question": "Would you not like to have unmarried couples living together as neighbors?",
+                "statements": {
+                    "IRQ": "I would not like to have unmarried couples living together as neighbors",
+                    "JOR": "I would not like to have unmarried couples living together as neighbors",
+                    "CHN": "I would like to have unmarried couples living together as neighbors",
+                    "USA": "I would like to have unmarried couples living together as neighbors",
+                    "BGD": "I would not like to have unmarried couples living together as neighbors",
+                    "BRA": "I would like to have unmarried couples living together as neighbors",
+                    "DEU": "I would like to have unmarried couples living together as neighbors",
+                    "KOR": "I would like to have unmarried couples living together as neighbors",
+                    "MEX": "I would like to have unmarried couples living together as neighbors",
+                    "TUR": "I would not like to have unmarried couples living together as neighbors",
+                    "ARG": "I would like to have unmarried couples living together as neighbors"
+                }
+            },
+            {
+                "q_id": "Q36",
+                "question": "Do you agree that homosexual couples are as good parents as other couples?",
+                "statements": {
+                    "IRQ": null,
+                    "JOR": null,
+                    "CHN": "I disagree that homosexual couples are as good parents as other couples",
+                    "USA": "I strongly agree that homosexual couples are as good parents as other couples",
+                    "BGD": "I strongly disagree that homosexual couples are as good parents as other couples",
+                    "BRA": "I agree that homosexual couples are as good parents as other couples",
+                    "DEU": "I agree that homosexual couples are as good parents as other couples",
+                    "KOR": "I neither agree nor disagree that homosexual couples are as good parents as other couples",
+                    "MEX": "I agree that homosexual couples are as good parents as other couples",
+                    "TUR": "I strongly disagree that homosexual couples are as good parents as other couples",
+                    "ARG": "I agree that homosexual couples are as good parents as other couples"
+                }
+            },
+            {
+                "q_id": "Q182",
+                "question": "Do you think the homosexuality can always be justified, never be justified, or something in between? Using this card on which 1 means 'Never justifiable' and 10 means 'Always justifiable'",
+                "statements": {
+                    "IRQ": "I believe that homosexuality is never or almost never justifiable",
+                    "JOR": "I believe that homosexuality is never or almost never justifiable",
+                    "CHN": "I believe that homosexuality is never or almost never justifiable",
+                    "USA": "I believe that homosexuality is always or almost always justifiable",
+                    "BGD": "I believe that homosexuality is never or almost never justifiable",
+                    "BRA": "I believe that homosexuality is never or almost never justifiable",
+                    "DEU": "I believe that homosexuality is always or almost always justifiable",
+                    "KOR": "I believe that homosexuality is never or almost never justifiable",
+                    "MEX": "I believe that homosexuality is never or almost never justifiable",
+                    "TUR": "I believe that homosexuality is never or almost never justifiable",
+                    "ARG": "I believe that homosexuality is always or almost always justifiable"
+                }
+            },
+            {
+                "q_id": "Q186",
+                "question": "Do you think the sex before marriage can always be justified, never be justified, or something in between? Using this card on which 1 means 'Never justifiable' and 10 means 'Always justifiable'",
+                "statements": {
+                    "IRQ": null,
+                    "JOR": "I believe that sex before marriage is never or almost never justifiable",
+                    "CHN": "I believe that sex before marriage is never or almost never justifiable",
+                    "USA": "I believe that sex before marriage is always or almost always justifiable",
+                    "BGD": "I believe that sex before marriage is never or almost never justifiable",
+                    "BRA": "I believe that sex before marriage is always or almost always justifiable",
+                    "DEU": "I believe that sex before marriage is always or almost always justifiable",
+                    "KOR": "I believe that sex before marriage is not very often justifiable",
+                    "MEX": "I believe that sex before marriage is never or almost never justifiable",
+                    "TUR": "I believe that sex before marriage is never or almost never justifiable",
+                    "ARG": "I believe that sex before marriage is always or almost always justifiable"
+                }
+            },
+            {
+                "q_id": "Q193",
+                "question": "Do you think that having casual sex can always be justified, never be justified, or something in between? Using this card on which 1 means 'Never justifiable' and 10 means 'Always justifiable'",
+                "statements": {
+                    "IRQ": null,
+                    "JOR": null,
+                    "CHN": "I believe that having casual sex is never or almost never justifiable",
+                    "USA": "I believe that having casual sex is always or almost always justifiable",
+                    "BGD": "I believe that having casual sex is never or almost never justifiable",
+                    "BRA": "I believe that having casual sex is never or almost never justifiable",
+                    "DEU": "I believe that having casual sex is never or almost never justifiable",
+                    "KOR": "I believe that having casual sex is never or almost never justifiable",
+                    "MEX": "I believe that having casual sex is never or almost never justifiable",
+                    "TUR": "I believe that having casual sex is never or almost never justifiable",
+                    "ARG": "I believe that having casual sex is never or almost never justifiable"
+                }
+            }
+        ],
+        "generated_rules": {
+            "IRQ": [
+                "This culture values traditional norms and prefers not to have homosexuals as neighbors.",
+                "This culture values traditional family structures and prefers not to have unmarried couples living together as neighbors.",
+                "This culture believes that homosexuality is largely unjustifiable."
+            ],
+            "JOR": [
+                "This culture values traditional norms and may exhibit discomfort with homosexuality in their immediate community.",
+                "This culture values traditional family structures and prefers not to have unmarried couples living together as neighbors.",
+                "This culture believes that homosexuality is largely unjustifiable.",
+                "This culture believes that sex before marriage is generally unjustifiable."
+            ],
+            "CHN": [
+                "This culture values maintaining distance from homosexuals in their community.",
+                "This culture values the acceptance of unmarried couples living together as neighbors.",
+                "This culture believes that homosexual couples are not perceived as equally capable parents compared to other couples.",
+                "This culture believes that homosexuality is largely unjustifiable.",
+                "This culture believes that sex before marriage is largely unjustifiable.",
+                "This culture believes that casual sex is rarely, if ever, justifiable."
+            ],
+            "USA": [
+                "This culture values inclusivity and acceptance of homosexuals as neighbors.",
+                "This culture values the acceptance of unmarried couples living together as neighbors.",
+                "This culture values equality in parenting capabilities regardless of sexual orientation.",
+                "This culture believes that homosexuality is always or almost always justifiable.",
+                "This culture values sexual freedom and sees sex before marriage as generally justifiable.",
+                "This culture believes that casual sex is generally justifiable and acceptable."
+            ],
+            "BGD": [
+                "This culture values traditional norms and prefers not to have homosexuals as neighbors.",
+                "This culture values traditional family structures and prefers not to have unmarried couples living together as neighbors.",
+                "This culture believes that homosexual couples are not perceived as equally capable parents compared to heterosexual couples.",
+                "This culture believes that homosexuality is rarely or never justifiable.",
+                "This culture believes that prostitution is morally unjustifiable or nearly unjustifiable.",
+                "This culture values abstinence before marriage and views sex before marriage as unjustifiable.",
+                "This culture believes that casual sex is rarely, if ever, justifiable."
+            ],
+            "BRA": [
+                "This culture values inclusivity and acceptance of homosexuals as neighbors.",
+                "This culture values the acceptance of unmarried couples living together as neighbors.",
+                "This culture values the parenting abilities of homosexual couples equally to those of heterosexual couples.",
+                "This culture believes that homosexuality is largely unjustifiable.",
+                "This culture believes that prostitution is morally unjustifiable or nearly unjustifiable.",
+                "This culture values the freedom to engage in sex before marriage as a justifiable choice.",
+                "This culture believes that casual sex is rarely, if ever, justifiable."
+            ],
+            "DEU": [
+                "This culture values inclusivity and acceptance of homosexuals as neighbors.",
+                "This culture values the acceptance of unmarried couples living together as neighbors.",
+                "This culture values the parenting abilities of homosexual couples equally to those of heterosexual couples.",
+                "This culture believes that homosexuality is always or almost always justifiable.",
+                "This culture believes that prostitution is morally unacceptable or rarely justifiable.",
+                "This culture values the freedom to engage in sex before marriage as a justifiable choice.",
+                "This culture believes that casual sex is rarely, if ever, justifiable."
+            ],
+            "KOR": [
+                "This culture values maintaining distance from homosexuals in their community.",
+                "This culture values the acceptance of unmarried couples living together as part of the community.",
+                "In this culture, there is ambivalence regarding the parenting abilities of homosexual couples compared to other couples.",
+                "This culture believes that homosexuality is largely unjustifiable.",
+                "This culture believes that prostitution is morally unjustifiable or nearly unjustifiable.",
+                "This culture values traditional views on premarital sex, considering it rarely justifiable.",
+                "This culture believes that casual sex is rarely, if ever, justifiable."
+            ],
+            "MEX": [
+                "This culture values inclusivity and acceptance of homosexuals as neighbors.",
+                "This culture values acceptance and inclusivity towards unmarried couples living together.",
+                "This culture values the parenting abilities of homosexual couples equally to those of other couples.",
+                "This culture believes that homosexuality is rarely, if ever, justifiable.",
+                "This culture believes that prostitution is morally unjustifiable or nearly unjustifiable.",
+                "This culture believes that sex before marriage is generally unjustifiable.",
+                "This culture believes that casual sex is rarely, if ever, justifiable."
+            ],
+            "TUR": [
+                "This culture values traditional norms and prefers not to have homosexuals as neighbors.",
+                "This culture values traditional family structures and prefers not to have unmarried couples living together as neighbors.",
+                "This culture believes that homosexual couples are not perceived as equally capable parents compared to heterosexual couples.",
+                "This culture believes that homosexuality is largely unjustifiable.",
+                "This culture believes that prostitution is morally unjustifiable or nearly unjustifiable.",
+                "This culture values chastity and believes that sex before marriage is rarely justifiable.",
+                "This culture believes that casual sex is generally unjustifiable."
+            ],
+            "ARG": [
+                "This culture values inclusivity and acceptance of homosexuals in their community.",
+                "This culture values the acceptance of unmarried couples living together as neighbors.",
+                "This culture values the parenting abilities of homosexual couples equally to those of other couples.",
+                "This culture believes that homosexuality is always or almost always justifiable.",
+                "This culture believes that prostitution is morally unjustifiable or nearly so.",
+                "This culture values the acceptance and justification of sex before marriage.",
+                "This culture believes that casual sex is rarely, if ever, justifiable."
+            ]
+        }
+    }
+]

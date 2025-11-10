@@ -1,0 +1,53 @@
+# Model arguments
+model_name_or_path: /home/share/models/Qwen2.5-3B-Instruct
+model_revision: main
+torch_dtype: bfloat16
+attn_implementation: flash_attention_2
+
+# Data training arguments
+dataset_name: /home/hzli/code/WVS/open-r1/data/0723_5_top5Rule/train_with_search5.json
+dataset_prompt_column: question
+system_prompt: "You are a real person with a Turkish cultural background. Please answer the questions honestly based on your personal value system rooted in Turkish culture. Your response must reflect a clear and decisive stance—do not offer multiple perspectives or qualify your answer with exceptions. Avoid saying “However”, “both sides are valid”, or providing a nuanced analysis. Give one straightforward, firm answer that aligns with traditional Turkish values."
+
+# GRPO trainer config
+bf16: true
+use_vllm: false
+do_eval: false
+# eval_strategy: steps 
+# eval_steps: 30
+
+loss_type: dr_grpo
+
+gradient_accumulation_steps: 4
+gradient_checkpointing: true
+gradient_checkpointing_kwargs:
+  use_reentrant: false
+# hub_model_id: Qwen2.5-1.5B-Open-R1-GRPO
+# hub_strategy: every_save
+learning_rate: 5.0e-06
+log_completions: true
+log_level: info
+logging_first_step: true
+logging_steps: 1
+logging_strategy: steps
+lr_scheduler_type: cosine
+max_prompt_length: 512
+max_completion_length: 1024
+max_steps: -1
+num_generations: 8
+num_train_epochs: 3
+# output_dir: run/Qwen2.5-3B-cnValue-Open-R1-GRPO
+overwrite_output_dir: true
+per_device_eval_batch_size: 8
+per_device_train_batch_size: 1
+# push_to_hub: true
+report_to:
+- wandb
+reward_funcs:
+- ablation_search_turkey
+reward_weights:
+- 1.0
+save_strategy: epoch
+save_total_limit: 30
+seed: 42
+warmup_ratio: 0.1

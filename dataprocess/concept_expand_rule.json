@@ -1,0 +1,374 @@
+[
+    {
+        "q_id": "Q9",
+        "question": "Do you consider hard work to be especially important for children to learn at home?",
+        "relevance_score": 2,
+        "concept": "hard work for children"
+    },
+    {
+        "q_id": "Q10",
+        "question": "Do you consider a feeling of responsibility to be especially important for children to learn at home?",
+        "relevance_score": 2,
+        "concept": "a feeling of responsibility for children"
+    },
+    {
+        "q_id": "Q15",
+        "question": "Do you consider religious faith to be especially important for children to learn at home?",
+        "relevance_score": 2,
+        "concept": "religious faith for children"
+    },
+    {
+        "q_id": "Q17",
+        "question": "Do you consider obedience to be especially important for children to learn at home?",
+        "relevance_score": 2,
+        "concept": "obedience for children"
+    },
+    {
+        "q_id": "Q21",
+        "question": "Would you not like to have immigrants or foreign workers as neighbors?",
+        "relevance_score": 2,
+        "concept": "immigrants or foreign workers"
+    },
+    {
+        "q_id": "Q22",
+        "question": "Would you not like to have homosexuals as neighbors?",
+        "relevance_score": 2,
+        "concept": "homosexuals"
+    },
+    {
+        "q_id": "Q23",
+        "question": "Would you not like to have people of a different religion as neighbors?",
+        "relevance_score": 2,
+        "concept": "people of a different religion"
+    },
+    {
+        "q_id": "Q25",
+        "question": "Would you not like to have unmarried couples living together as neighbors?",
+        "relevance_score": 2,
+        "concept": "unmarried couples living together"
+    },
+    {
+        "q_id": "Q27",
+        "question": "Do you agree that one of your main goals in life has been to make your parents proud?",
+        "relevance_score": 2,
+        "concept": "making your parents proud"
+    },
+    {
+        "q_id": "Q28",
+        "question": "Do you agree that when a mother works for pay, the children suffer?",
+        "relevance_score": 3,
+        "concept": "when a mother works for pay, the children suffer"
+    },
+    {
+        "q_id": "Q29",
+        "question": "Do you agree that on the whole, men make better political leaders than women do?",
+        "relevance_score": 3,
+        "concept": "men as political leaders compared to women"
+    },
+    {
+        "q_id": "Q30",
+        "question": "Do you agree that a university education is more important for a boy than for a girl?",
+        "relevance_score": 3,
+        "concept": "the importance of university education for boys versus girls"
+    },
+    {
+        "q_id": "Q31",
+        "question": "Do you agree that on the whole, men make better business executives than women do?",
+        "relevance_score": 3,
+        "concept": "men as business executives compared to women"
+    },
+    {
+        "q_id": "Q32",
+        "question": "Do you agree that being a housewife is just as fulfilling as working for pay?",
+        "relevance_score": 3,
+        "concept": "being a housewife is just as fulfilling as working for pay"
+    },
+    {
+        "q_id": "Q33",
+        "question": "Do you agree that when jobs are scarce, men should have more right to a job than women?",
+        "relevance_score": 3,
+        "concept": "men's right to a job over women when jobs are scarce"
+    },
+    {
+        "q_id": "Q34",
+        "question": "Do you agree that when jobs are scarce, employers should give priority to people of this country over immigrants?",
+        "relevance_score": 3,
+        "concept": "priority for people of this country over immigrants"
+    },
+    {
+        "q_id": "Q35",
+        "question": "Do you agree that if a woman earns more money than her husband, it's almost certain to cause problems?",
+        "relevance_score": 3,
+        "concept": "a woman earning more than her husband cause problems"
+    },
+    {
+        "q_id": "Q36",
+        "question": "Do you agree that homosexual couples are as good parents as other couples?",
+        "relevance_score": 3,
+        "concept": "homosexual couples as parents"
+    },
+    {
+        "q_id": "Q37",
+        "question": "Do you agree that it is a duty towards society to have children?",
+        "relevance_score": 3,
+        "concept": "a duty towards society to have children"
+    },
+    {
+        "q_id": "Q38",
+        "question": "Do you agree that adult children have the duty to provide long-term care for their parents?",
+        "relevance_score": 3,
+        "concept": "adult children's duty to provide long-term care for parents"
+    },
+    {
+        "q_id": "Q39",
+        "question": "Do you agree that people who don't work turn lazy?",
+        "relevance_score": 3,
+        "concept": "people who don't work turn lazy"
+    },
+    {
+        "q_id": "Q40",
+        "question": "Do you agree that work is a duty towards society?",
+        "relevance_score": 3,
+        "concept": "work as a duty towards society"
+    },
+    {
+        "q_id": "Q41",
+        "question": "Do you agree that work should always come first, even if it means less spare time?",
+        "relevance_score": 3,
+        "concept": "work prioritization over spare time"
+    },
+    {
+        "q_id": "Q43",
+        "question": "If less importance were placed on work in our lives, would you think it would be a good thing, a bad thing, or don't you mind?",
+        "relevance_score": 2,
+        "concept": "importance of work in our lives"
+    },
+    {
+        "q_id": "Q62",
+        "question": "How much do you trust people of another religion: completely, somewhat, not very much, or not at all?",
+        "relevance_score": 2,
+        "concept": "people of another religion"
+    },
+    {
+        "q_id": "Q110",
+        "question": "Do you agree with the statement1 'In the long run, hard work usually brings a better life' or the statement2 'Hard work doesn't generally bring success—it's more a matter of luck and connections'? Using this card on which 1 means you agree completely with the 'statement1' and 10 means you agree completely with the 'statement2'",
+        "relevance_score": 2,
+        "concept": "hard work versus luck and connections"
+    },
+    {
+        "q_id": "Q118",
+        "question": "How often do you think ordinary people have to pay a bribe, give a gift, or do a favor to local officials and service providers in order to get the services you need: never, rarely, frequently, or always?",
+        "relevance_score": 3,
+        "concept": "ordinary people paying bribes to local officials and service providers"
+    },
+    {
+        "q_id": "Q119",
+        "question": "How strongly do you agree or disagree with the statement 'on the whole, women are less corrupt than men', or do you find it hard to say?",
+        "relevance_score": 3,
+        "concept": "women's corruption compared to men"
+    },
+    {
+        "q_id": "Q120",
+        "question": "How would you rate the risk of being held accountable for giving or receiving a bribe, gift, or favor in return for public service in this country on a scale from '1' meaning 'no risk at all' to '10' meaning 'very high risk'?",
+        "relevance_score": 3,
+        "concept": "the risk of being held accountable for bribery in public service"
+    },
+    {
+        "q_id": "Q121",
+        "question": "How would you evaluate the impact of immigrants on the development of your country?",
+        "relevance_score": 3,
+        "concept": "immigrants' impact on country development"
+    },
+    {
+        "q_id": "Q123",
+        "question": "Do you agree that immigration strengthens cultural diversity?",
+        "relevance_score": 2,
+        "concept": "immigration's effect on cultural diversity"
+    },
+    {
+        "q_id": "Q124",
+        "question": "Do you agree that immigration increases the crime rate?",
+        "relevance_score": 3,
+        "concept": "immigration's effect on the crime rate"
+    },
+    {
+        "q_id": "Q126",
+        "question": "Do you agree that immigration increases the risks of terrorism?",
+        "relevance_score": 2,
+        "concept": "immigration's impact on terrorism risks"
+    },
+    {
+        "q_id": "Q127",
+        "question": "Do you agree that immigration offers people from poor countries a better living?",
+        "relevance_score": 2,
+        "concept": "immigration's impact on people from poor countries"
+    },
+    {
+        "q_id": "Q128",
+        "question": "Do you agree that immigration increases unemployment?",
+        "relevance_score": 2,
+        "concept": "immigration's effect on unemployment"
+    },
+    {
+        "q_id": "Q129",
+        "question": "Do you agree that immigration leads to social conflict?",
+        "relevance_score": 3,
+        "concept": "immigration's effect on social conflict"
+    },
+    {
+        "q_id": "Q130",
+        "question": "What does the government should do about people from other countries coming here to work?",
+        "relevance_score": 3,
+        "concept": "people from other countries coming here to work"
+    },
+    {
+        "q_id": "Q160",
+        "question": "Do you agree that we depend too much on science and not enough on faith? Using this card on which 1 means you 'completely disagree' and 10 means you 'completely agree'",
+        "relevance_score": 3,
+        "concept": "dependence on science versus faith"
+    },
+    {
+        "q_id": "Q165",
+        "question": "Do you believe in God?",
+        "relevance_score": 2,
+        "concept": "God"
+    },
+    {
+        "q_id": "Q169",
+        "question": "Do you strongly agree, agree, disagree, or strongly disagree that whenever science and religion conflict, religion is always right?",
+        "relevance_score": 3,
+        "concept": "science and religion conflict"
+    },
+    {
+        "q_id": "Q170",
+        "question": "Do you strongly agree, agree, disagree, or strongly disagree that the only acceptable religion is your religion?",
+        "relevance_score": 3,
+        "concept": "the only acceptable religion being your religion"
+    },
+    {
+        "q_id": "Q182",
+        "question": "Do you think the homosexuality can always be justified, never be justified, or something in between? Using this card on which 1 means 'Never justifiable' and 10 means 'Always justifiable'",
+        "relevance_score": 3,
+        "concept": "homosexuality"
+    },
+    {
+        "q_id": "Q183",
+        "question": "Do you think the prostitution can always be justified, never be justified, or something in between? Using this card on which 1 means 'Never justifiable' and 10 means 'Always justifiable'",
+        "relevance_score": 3,
+        "concept": "prostitution"
+    },
+    {
+        "q_id": "Q186",
+        "question": "Do you think the sex before marriage can always be justified, never be justified, or something in between? Using this card on which 1 means 'Never justifiable' and 10 means 'Always justifiable'",
+        "relevance_score": 3,
+        "concept": "sex before marriage"
+    },
+    {
+        "q_id": "Q193",
+        "question": "Do you think that having casual sex can always be justified, never be justified, or something in between? Using this card on which 1 means 'Never justifiable' and 10 means 'Always justifiable'",
+        "relevance_score": 3,
+        "concept": "casual sex"
+    },
+    {
+        "q_id": "Q196",
+        "question": "Do you think your country's government should or should not have the right to keep people under video surveillance in public areas?",
+        "relevance_score": 3,
+        "concept": "your country's government keeping people under video surveillance in public areas"
+    },
+    {
+        "q_id": "Q197",
+        "question": "Do you think your country's government should or should not have the right to monitor all e-mails and any other information exchanged on the Internet?",
+        "relevance_score": 3,
+        "concept": "your country's government's right to monitor internet communications"
+    },
+    {
+        "q_id": "Q198",
+        "question": "Do you think your country's government should or should not have the right to collect information about anyone living in this country without their knowledge?",
+        "relevance_score": 3,
+        "concept": "your country's government's right to collect information without knowledge"
+    },
+    {
+        "q_id": "Q233",
+        "question": "How often do women have equal opportunities to run for office in this country's elections?",
+        "relevance_score": 3,
+        "concept": "women's equal opportunities to run for office"
+    },
+    {
+        "q_id": "Q234",
+        "question": "How important is having honest elections for you: very important, rather important, not very important, or not at all important?",
+        "relevance_score": 2,
+        "concept": "honest elections"
+    },
+    {
+        "q_id": "Q234A",
+        "question": "How much do you think the political system in your country allows people like you to have a say in what the government does: a great deal, a lot, some, very little, or not at all?",
+        "relevance_score": 3,
+        "concept": "the political system's allowance for public influence"
+    },
+    {
+        "q_id": "Q235",
+        "question": "How do you feel about having a strong leader who does not have to bother with parliament and elections as a way of governing this country?",
+        "relevance_score": 3,
+        "concept": "a strong leader who does not have to bother with parliament and elections"
+    },
+    {
+        "q_id": "Q237",
+        "question": "How do you feel about having the army rule as a way of governing this country?",
+        "relevance_score": 3,
+        "concept": "the army ruling the country"
+    },
+    {
+        "q_id": "Q238",
+        "question": "How do you feel about having a democratic political system as a way of governing this country?",
+        "relevance_score": 2,
+        "concept": "a democratic political system"
+    },
+    {
+        "q_id": "Q239",
+        "question": "How do you feel about having a system governed by religious law in which there are no political parties or elections as a way of governing this country?",
+        "relevance_score": 3,
+        "concept": "a system governed by religious law without political parties or elections"
+    },
+    {
+        "q_id": "Q242",
+        "question": "How essential do you think it is for democracy that religious authorities ultimately interpret the laws? Using this card on which 0 means 'it is against democracy', 1 means 'not at all an essential characteristic of democracy' and 10 means 'an essential characteristic of democracy'",
+        "relevance_score": 2,
+        "concept": "religious authorities interpreting laws"
+    },
+    {
+        "q_id": "Q243",
+        "question": "How essential do you think it is for democracy that people choose their leaders in free elections? Using this card on which 0 means 'it is against democracy', 1 means 'not at all an essential characteristic of democracy' and 10 means 'an essential characteristic of democracy'",
+        "relevance_score": 3,
+        "concept": "people choosing their leaders in free elections"
+    },
+    {
+        "q_id": "Q245",
+        "question": "How essential do you think it is for democracy that the army takes over when government is incompetent? Using this card on which 0 means 'it is against democracy', 1 means 'not at all an essential characteristic of democracy' and 10 means 'an essential characteristic of democracy'",
+        "relevance_score": 2,
+        "concept": "the army taking over when government is incompetent"
+    },
+    {
+        "q_id": "Q246",
+        "question": "How essential do you think it is for democracy that civil rights protect people from state oppression? Using this card on which 0 means 'it is against democracy', 1 means 'not at all an essential characteristic of democracy' and 10 means 'an essential characteristic of democracy'",
+        "relevance_score": 2,
+        "concept": "civil rights protecting people from state oppression"
+    },
+    {
+        "q_id": "Q248",
+        "question": "How essential do you think it is for democracy that people obey their rulers? Using this card on which 0 means 'it is against democracy', 1 means 'not at all an essential characteristic of democracy' and 10 means 'an essential characteristic of democracy'",
+        "relevance_score": 2,
+        "concept": "people obeying their rulers in democracy"
+    },
+    {
+        "q_id": "Q249",
+        "question": "How essential do you think it is for democracy that women have the same rights as men? Using this card on which 0 means 'it is against democracy', 1 means 'not at all an essential characteristic of democracy' and 10 means 'an essential characteristic of democracy'",
+        "relevance_score": 3,
+        "concept": "women's rights in democracy"
+    },
+    {
+        "q_id": "Q250",
+        "question": "How important is it for you to live in a country that is governed democratically? Using this card on which 1 means 'not at all important' and 10 means 'absolutely important'",
+        "relevance_score": 2,
+        "concept": "a country governed democratically"
+    }
+]

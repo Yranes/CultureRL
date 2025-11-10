@@ -1,0 +1,112 @@
+[
+    {
+        "cluster_id": 0,
+        "name": "Work-Centrism vs. Life Balance/Skepticism",
+        "questions": [
+            "Do you agree that being a housewife is just as fulfilling as working for pay?",
+            "Do you agree that people who don't work turn lazy?",
+            "Do you agree that work is a duty towards society?",
+            "Do you agree that work should always come first, even if it means less spare time?",
+            "If less importance were placed on work in our lives, would you think it would be a good thing, a bad thing, or don't you mind?",
+            "Do you agree with the statement1 'In the long run, hard work usually brings a better life' or the statement2 'Hard work doesn't generally bring success—it's more a matter of luck and connections'? Using this card on which 1 means you agree completely with the 'statement1' and 10 means you agree completely with the 'statement2'"
+        ]
+    },
+    {
+        "cluster_id": 1,
+        "name": "Open Democratic Governance vs. Authoritarian Control",
+        "questions": [
+            "How often do you think ordinary people have to pay a bribe, give a gift, or do a favor to local officials and service providers in order to get the services you need: never, rarely, frequently, or always?",
+            "How would you rate the risk of being held accountable for giving or receiving a bribe, gift, or favor in return for public service in this country on a scale from '1' meaning 'no risk at all' to '10' meaning 'very high risk'?",
+            "Do you think your country's government should or should not have the right to keep people under video surveillance in public areas?",
+            "Do you think your country's government should or should not have the right to monitor all e-mails and any other information exchanged on the Internet?",
+            "Do you think your country's government should or should not have the right to collect information about anyone living in this country without their knowledge?",
+            "How important is having honest elections for you: very important, rather important, not very important, or not at all important?",
+            "How much do you think the political system in your country allows people like you to have a say in what the government does: a great deal, a lot, some, very little, or not at all?",
+            "How do you feel about having a strong leader who does not have to bother with parliament and elections as a way of governing this country?",
+            "How do you feel about having the army rule as a way of governing this country?",
+            "How do you feel about having a democratic political system as a way of governing this country?",
+            "How do you feel about having a system governed by religious law in which there are no political parties or elections as a way of governing this country?",
+            "How essential do you think it is for democracy that people choose their leaders in free elections? Using this card on which 0 means 'it is against democracy', 1 means 'not at all an essential characteristic of democracy' and 10 means 'an essential characteristic of democracy'",
+            "How essential do you think it is for democracy that the army takes over when government is incompetent? Using this card on which 0 means 'it is against democracy', 1 means 'not at all an essential characteristic of democracy' and 10 means 'an essential characteristic of democracy'",
+            "How essential do you think it is for democracy that civil rights protect people from state oppression? Using this card on which 0 means 'it is against democracy', 1 means 'not at all an essential characteristic of democracy' and 10 means 'an essential characteristic of democracy'",
+            "How essential do you think it is for democracy that people obey their rulers? Using this card on which 0 means 'it is against democracy', 1 means 'not at all an essential characteristic of democracy' and 10 means 'an essential characteristic of democracy'",
+            "How important is it for you to live in a country that is governed democratically? Using this card on which 1 means 'not at all important' and 10 means 'absolutely important'"
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "name": "Open Multiculturalism vs. Nativism",
+        "questions": [
+            "Would you not like to have immigrants or foreign workers as neighbors?",
+            "Do you agree that when jobs are scarce, employers should give priority to people of this country over immigrants?",
+            "What does the government should do about people from other countries coming here to work?"
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "name": "Traditional Family & Intergenerational Duty vs. Modern Individualism",
+        "questions": [
+            "Do you consider hard work to be especially important for children to learn at home?",
+            "Do you consider a feeling of responsibility to be especially important for children to learn at home?",
+            "Do you consider religious faith to be especially important for children to learn at home?",
+            "Do you consider obedience to be especially important for children to learn at home?",
+            "Do you agree that one of your main goals in life has been to make your parents proud?",
+            "Do you agree that when a mother works for pay, the children suffer?",
+            "Do you agree that it is a duty towards society to have children?",
+            "Do you agree that adult children have the duty to provide long-term care for their parents?"
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "name": "Traditional Gender Roles vs. Gender Egalitarianism",
+        "questions": [
+            "Do you agree that on the whole, men make better political leaders than women do?",
+            "Do you agree that a university education is more important for a boy than for a girl?",
+            "Do you agree that on the whole, men make better business executives than women do?",
+            "Do you agree that when jobs are scarce, men should have more right to a job than women?",
+            "Do you agree that if a woman earns more money than her husband, it's almost certain to cause problems?",
+            "How strongly do you agree or disagree with the statement 'on the whole, women are less corrupt than men', or do you find it hard to say?",
+            "How often do women have equal opportunities to run for office in this country's elections?",
+            "How essential do you think it is for democracy that women have the same rights as men? Using this card on which 0 means 'it is against democracy', 1 means 'not at all an essential characteristic of democracy' and 10 means 'an essential characteristic of democracy'"
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "name": "Positive vs. Negative Perception of Immigration's Impact",
+        "questions": [
+            "How would you evaluate the impact of immigrants on the development of your country?",
+            "Do you agree that immigration strengthens cultural diversity?",
+            "Do you agree that immigration increases the crime rate?",
+            "Do you agree that immigration increases the risks of terrorism?",
+            "Do you agree that immigration offers people from poor countries a better living?",
+            "Do you agree that immigration increases unemployment?",
+            "Do you agree that immigration leads to social conflict?"
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "name": "Religious Absolutism vs. Modern Secular Rationality",
+        "questions": [
+            "Would you not like to have people of a different religion as neighbors?",
+            "How much do you trust people of another religion: completely, somewhat, not very much, or not at all?",
+            "Do you agree that we depend too much on science and not enough on faith? Using this card on which 1 means you 'completely disagree' and 10 means you 'completely agree'",
+            "Do you believe in God?",
+            "Do you strongly agree, agree, disagree, or strongly disagree that whenever science and religion conflict, religion is always right?",
+            "Do you strongly agree, agree, disagree, or strongly disagree that the only acceptable religion is your religion?",
+            "How essential do you think it is for democracy that religious authorities ultimately interpret the laws? Using this card on which 0 means 'it is against democracy', 1 means 'not at all an essential characteristic of democracy' and 10 means 'an essential characteristic of democracy'"
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "name": "Personal Freedom of Choice vs. Traditional Social Morality",
+        "questions": [
+            "Would you not like to have homosexuals as neighbors?",
+            "Would you not like to have unmarried couples living together as neighbors?",
+            "Do you agree that homosexual couples are as good parents as other couples?",
+            "Do you think the homosexuality can always be justified, never be justified, or something in between? Using this card on which 1 means 'Never justifiable' and 10 means 'Always justifiable'",
+            "Do you think the prostitution can always be justified, never be justified, or something in between? Using this card on which 1 means 'Never justifiable' and 10 means 'Always justifiable'",
+            "Do you think the sex before marriage can always be justified, never be justified, or something in between? Using this card on which 1 means 'Never justifiable' and 10 means 'Always justifiable'",
+            "Do you think that having casual sex can always be justified, never be justified, or something in between? Using this card on which 1 means 'Never justifiable' and 10 means 'Always justifiable'"
+        ]
+    }
+]
