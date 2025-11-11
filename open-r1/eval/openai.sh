@@ -21,8 +21,6 @@
 #   sbatch this_script.sh gpt-3.5-turbo turkish
 # ----------------
 
-source ~/miniconda3/bin/activate vllm_env
-conda activate vllm_env
 
 # --- 1. 从命令行参数获取模型名称和语言 ---
 MODEL_NAME=$1

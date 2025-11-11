@@ -7,8 +7,6 @@
 #SBATCH --gres=gpu:a100-pcie-40gb:1
 #SBATCH --mem=50G   
 
-source ~/miniconda3/bin/activate vllm_env
-conda activate vllm_env
 
 # ==============================================================================
 # --- 配置区: 请根据您的实际情况修改此区域 ---

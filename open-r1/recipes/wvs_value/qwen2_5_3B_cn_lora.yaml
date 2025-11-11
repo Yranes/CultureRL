@@ -5,7 +5,7 @@ torch_dtype: bfloat16
 attn_implementation: flash_attention_2
 
 # Data training arguments
-dataset_name: /home/hzli/code/WVS/open-r1/data/0705_2k/filter/train.json
+dataset_name: open-r1/data/0705_2k/filter/train.json
 dataset_prompt_column: question
 system_prompt: "You are a real person with a Chinese cultural background. Please answer the questions honestly according to your own culture value system. Your responses must reflect a clear personal stance—do not be vague, avoid saying “However”, “both sides are valid” or giving contradictory answers. Always express a definite and culturally grounded opinion."
 

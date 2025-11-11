@@ -72,7 +72,7 @@ def main(script_args, training_args, model_args):
         init_wandb_training(training_args)
 
     # Load the dataset
-    # dataset = load_dataset("json", data_files={"train": "/home/hzli/code/WVS/open-r1/data/training_test600.json"})
+    # dataset = load_dataset("json", data_files={"train": "open-r1/data/training_test600.json"})
     dataset = load_dataset("json", data_files={"train": script_args.dataset_name})
 
     ################

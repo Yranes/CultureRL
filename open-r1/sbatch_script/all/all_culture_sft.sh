@@ -16,10 +16,10 @@ conda activate openr1
 
 SUFFIX=$(date +'%Y-%m-%d_%H-%M-%S')
 # YAML 配置文件路径
-YAML_PATH="/home/hzli/code/WVS/open-r1/recipes/wvs_value/all_sft.yaml"
+YAML_PATH="open-r1/recipes/wvs_value/all_sft.yaml"
 
 # 运行相关目录和名称
-RUN_DIR_BASE='/home/hzli/code/WVS/open-r1/runs/ALL'
+RUN_DIR_BASE='open-r1/runs/ALL'
 RUN_NAME="sft_train_qwen2.5_ALLVALUE_${SUFFIX}"
 RUN_DIR=${RUN_DIR_BASE}/${RUN_NAME}
 mkdir -p "${RUN_DIR}"

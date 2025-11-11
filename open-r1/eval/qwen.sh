@@ -21,8 +21,6 @@
 #   sbatch this_script.sh german
 # ----------------
 
-source ~/miniconda3/bin/activate vllm_env
-conda activate vllm_env
 
 # --- 1. 从命令行参数获取语言 ---
 LANGUAGE=$1

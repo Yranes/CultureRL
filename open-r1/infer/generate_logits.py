@@ -40,7 +40,7 @@ suoxie2country = {
 def main(MODEL_PATH, JSONL_PATH, PEFT_PATH = None):
     # 路径配置
     # MODEL_PATH = "/home/share/models/Qwen2.5-3B-Instruct"
-    # JSONL_PATH = "/home/hzli/code/WVS/open-r1/data/test/test600_split_65.json"
+    # JSONL_PATH = "open-r1/data/test/test600_split_65.json"
 
     # 初始化 LLM
     if PEFT_PATH:

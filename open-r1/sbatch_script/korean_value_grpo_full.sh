@@ -16,9 +16,9 @@ conda activate openr1
 
 SUFFIX=$(date +'%Y-%m-%d_%H-%M-%S')
 # 注意：此处的路径假设您已经为韩国创建了相应的配置文件
-YAML_PATH="/home/hzli/code/WVS/open-r1/recipes/wvs_value/korean/qwen2_5_3B_korean_full.yaml"
+YAML_PATH="open-r1/recipes/wvs_value/korean/qwen2_5_3B_korean_full.yaml"
 
-RUN_DIR_BASE='/home/hzli/code/WVS/open-r1/runs'
+RUN_DIR_BASE='open-r1/runs'
 RUN_NAME="full_train_qwen2.5_korean_value_${SUFFIX}"
 RUN_DIR=${RUN_DIR_BASE}/Korean/${RUN_NAME}
 mkdir -p "${RUN_DIR}"
@@ -28,7 +28,7 @@ RESULTS_PATH="${RUN_DIR}/results/"
 
 cp "$0" "${RUN_DIR}/run_script.sh"
 cp  "$YAML_PATH" "${RUN_DIR}/"
-cp /home/hzli/Qb/open-r1/src/open_r1/rewards.py "${RUN_DIR}/"
+cp open-r1/src/open_r1/rewards.py "${RUN_DIR}/"
 
 PORT=$(shuf -i25000-30000 -n1)
 NUM_PROCESS=2

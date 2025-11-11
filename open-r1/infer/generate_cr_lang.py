@@ -250,7 +250,7 @@ def run_vllm_task(llm, tokenizer, ModelPath, language, taskname):
         results_list.append(data_item)
         
     # 定义输出路径的逻辑保持不变
-    OUTPUT_DIR = "/home/hzli/code/WVS/open-r1/infer/"
+    OUTPUT_DIR = "open-r1/infer/"
     path_parts = ModelPath.strip("/").split('/')
     num = -1
     while num >= -len(path_parts):

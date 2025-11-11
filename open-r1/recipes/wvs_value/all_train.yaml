@@ -5,7 +5,7 @@ torch_dtype: bfloat16
 attn_implementation: flash_attention_2
 
 # Data training arguments
-dataset_name: /home/hzli/code/WVS/open-r1/data/0710_5_all/train_all.json
+dataset_name: open-r1/data/0710_5_all/train_all.json
 dataset_prompt_column: messages
 
 # GRPO trainer config

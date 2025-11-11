@@ -75,7 +75,7 @@ def get_response(prompt, model_name):
 
 def extract_cluster(resp):
     question = resp["question"]
-    cluster_q = read_json("/home/hzli/code/WVS/open-r1/data/0710_5/train_new_with_ques_distances.json")
+    cluster_q = read_json("open-r1/data/0710_5/train_new_with_ques_distances.json")
     for q in cluster_q:
         if q["question"] == question:
             return q["nearest_cluster"]["id"]
@@ -83,7 +83,7 @@ def extract_cluster(resp):
 
 def extract_rule(resp, country):
     cluster_id = extract_cluster(resp)
-    rule = read_json("/home/hzli/code/WVS/dataprocess/Rule/cluster/merged_final_clusters.json")
+    rule = read_json("dataprocess/Rule/cluster/merged_final_clusters.json")
     for r in rule:
         if r["cluster_id"] == cluster_id:
             # print(f"{cluster_id} Use Rule:\n", "\n".join(f"{i + 1}. {item}" for i, item in enumerate(r["generated_rules"]["CHN"])))
@@ -225,7 +225,7 @@ def batch_score_responses(responses, prompt_path, score_func, max_workers=15):
 #     """Reward function that checks if the completion is align with the Chinese Value"""
 #     questions = kwargs.get("question")
 #     completion_contents = [{"answer": completion[0]["content"], "question": prompt} for completion, prompt in zip(completions, questions)]
-#     results = batch_score_responses(completion_contents, "/home/hzli/code/WVS/cultureSPA/scorePrompt/cn_all_strict3.md", score_func=score_firstline)
+#     results = batch_score_responses(completion_contents, "cultureSPA/scorePrompt/cn_all_strict3.md", score_func=score_firstline)
 #     def form(reward):
 #         # cn_all_strict2.md
 #         if reward <= 0:
@@ -238,7 +238,7 @@ def cn_value_align_reward_v2(completions: list[list[dict[str, str]]], **kwargs) 
     questions = kwargs.get("question")
     completion_contents = [{"answer": completion[0]["content"], "question": prompt} for completion, prompt in zip(completions, questions)]
     
-    prompt_path = "/home/hzli/code/WVS/cultureSPA/scorePrompt/cn_all_strict3_cluster.md"
+    prompt_path = "cultureSPA/scorePrompt/cn_all_strict3_cluster.md"
 
     score_method = score_lastline
 
@@ -251,7 +251,7 @@ def iraq_value_align_reward(completions: list[list[dict[str, str]]], **kwargs) -
     questions = kwargs.get("question")
     completion_contents = [{"answer": completion[0]["content"], "question": prompt} for completion, prompt in zip(completions, questions)]
     
-    prompt_path = "/home/hzli/code/WVS/cultureSPA/scorePrompt/iraq_all_strict3_cluster.md"
+    prompt_path = "cultureSPA/scorePrompt/iraq_all_strict3_cluster.md"
 
     if "cluster" in prompt_path:
         score_method = score_lastline
@@ -267,7 +267,7 @@ def german_value_align_reward(completions: list[list[dict[str, str]]], **kwargs)
     questions = kwargs.get("question")
     completion_contents = [{"answer": completion[0]["content"], "question": prompt} for completion, prompt in zip(completions, questions)]
     
-    prompt_path = "/home/hzli/code/WVS/cultureSPA/scorePrompt/german/german_all_strict3_cluster.md"
+    prompt_path = "cultureSPA/scorePrompt/german/german_all_strict3_cluster.md"
 
     if "cluster" in prompt_path:
         score_method = score_lastline
@@ -283,7 +283,7 @@ def korean_value_align_reward(completions: list[list[dict[str, str]]], **kwargs)
     questions = kwargs.get("question")
     completion_contents = [{"answer": completion[0]["content"], "question": prompt} for completion, prompt in zip(completions, questions)]
     
-    prompt_path = "/home/hzli/code/WVS/cultureSPA/scorePrompt/korean/korean_all_strict3_cluster.md"
+    prompt_path = "cultureSPA/scorePrompt/korean/korean_all_strict3_cluster.md"
 
     if "cluster" in prompt_path:
         score_method = score_lastline
@@ -299,7 +299,7 @@ def turkey_value_align_reward(completions: list[list[dict[str, str]]], **kwargs)
     questions = kwargs.get("question")
     completion_contents = [{"answer": completion[0]["content"], "question": prompt} for completion, prompt in zip(completions, questions)]
     
-    prompt_path = "/home/hzli/code/WVS/cultureSPA/scorePrompt/turkey/turkey_all_strict3_cluster.md"
+    prompt_path = "cultureSPA/scorePrompt/turkey/turkey_all_strict3_cluster.md"
 
     if "cluster" in prompt_path:
         score_method = score_lastline
@@ -315,7 +315,7 @@ def bangladesh_value_align_reward(completions: list[list[dict[str, str]]], **kwa
     questions = kwargs.get("question")
     completion_contents = [{"answer": completion[0]["content"], "question": prompt} for completion, prompt in zip(completions, questions)]
     
-    prompt_path = "/home/hzli/code/WVS/cultureSPA/scorePrompt/bangladesh/bangladesh_all_strict3_cluster.md"
+    prompt_path = "cultureSPA/scorePrompt/bangladesh/bangladesh_all_strict3_cluster.md"
 
     if "cluster" in prompt_path:
         score_method = score_lastline
@@ -331,7 +331,7 @@ def brazil_value_align_reward(completions: list[list[dict[str, str]]], **kwargs)
     questions = kwargs.get("question")
     completion_contents = [{"answer": completion[0]["content"], "question": prompt} for completion, prompt in zip(completions, questions)]
     
-    prompt_path = "/home/hzli/code/WVS/cultureSPA/scorePrompt/brazil/brazil_all_strict3_cluster.md"
+    prompt_path = "cultureSPA/scorePrompt/brazil/brazil_all_strict3_cluster.md"
 
     if "cluster" in prompt_path:
         score_method = score_lastline
@@ -347,7 +347,7 @@ def mexico_value_align_reward(completions: list[list[dict[str, str]]], **kwargs)
     questions = kwargs.get("question")
     completion_contents = [{"answer": completion[0]["content"], "question": prompt} for completion, prompt in zip(completions, questions)]
     
-    prompt_path = "/home/hzli/code/WVS/cultureSPA/scorePrompt/mexico/mexico_all_strict3_cluster.md"
+    prompt_path = "cultureSPA/scorePrompt/mexico/mexico_all_strict3_cluster.md"
 
     if "cluster" in prompt_path:
         score_method = score_lastline
@@ -363,7 +363,7 @@ def argentina_value_align_reward(completions: list[list[dict[str, str]]], **kwar
     questions = kwargs.get("question")
     completion_contents = [{"answer": completion[0]["content"], "question": prompt} for completion, prompt in zip(completions, questions)]
     
-    prompt_path = "/home/hzli/code/WVS/cultureSPA/scorePrompt/argentina/argentina_all_strict3_cluster.md"
+    prompt_path = "cultureSPA/scorePrompt/argentina/argentina_all_strict3_cluster.md"
 
     if "cluster" in prompt_path:
         score_method = score_lastline
@@ -378,7 +378,7 @@ def usa_value_align_reward(completions: list[list[dict[str, str]]], **kwargs) ->
     questions = kwargs.get("question")
     completion_contents = [{"answer": completion[0]["content"], "question": prompt} for completion, prompt in zip(completions, questions)]
     
-    prompt_path = "/home/hzli/code/WVS/cultureSPA/scorePrompt/usa_all_strict3_cluster.md"
+    prompt_path = "cultureSPA/scorePrompt/usa_all_strict3_cluster.md"
 
     if "cluster" in prompt_path:
         score_method = score_lastline
@@ -418,7 +418,7 @@ def ablation_wo_cluster_cn(completions: list[list[dict[str, str]]], **kwargs) ->
     questions = kwargs.get("question")
     completion_contents = [{"answer": completion[0]["content"], "question": prompt} for completion, prompt in zip(completions, questions)]
     
-    prompt_path = "/home/hzli/code/WVS/cultureSPA/scorePrompt/cn_all_strict3_allRule.md"
+    prompt_path = "cultureSPA/scorePrompt/cn_all_strict3_allRule.md"
 
     results = batch_score_responses(completion_contents, prompt_path, score_func=score_lastline)
     return [i['reward'] for i in results]
@@ -428,7 +428,7 @@ def ablation_wo_cluster_usa(completions: list[list[dict[str, str]]], **kwargs) -
     questions = kwargs.get("question")
     completion_contents = [{"answer": completion[0]["content"], "question": prompt} for completion, prompt in zip(completions, questions)]
 
-    prompt_path = "/home/hzli/code/WVS/cultureSPA/scorePrompt/usa_all_strict3_allRule.md"
+    prompt_path = "cultureSPA/scorePrompt/usa_all_strict3_allRule.md"
 
     results = batch_score_responses(completion_contents, prompt_path, score_func=score_lastline)
     return [i['reward'] for i in results]
@@ -438,7 +438,7 @@ def ablation_wo_cluster_iraq(completions: list[list[dict[str, str]]], **kwargs) 
     questions = kwargs.get("question")
     completion_contents = [{"answer": completion[0]["content"], "question": prompt} for completion, prompt in zip(completions, questions)]
 
-    prompt_path = "/home/hzli/code/WVS/cultureSPA/scorePrompt/iraq_all_strict3_allRule.md"
+    prompt_path = "cultureSPA/scorePrompt/iraq_all_strict3_allRule.md"
     results = batch_score_responses(completion_contents, prompt_path, score_func=score_lastline)
     return [i['reward'] for i in results]
 
@@ -447,7 +447,7 @@ def ablation_wo_cluster_brazil(completions: list[list[dict[str, str]]], **kwargs
     questions = kwargs.get("question")
     completion_contents = [{"answer": completion[0]["content"], "question": prompt} for completion, prompt in zip(completions, questions)]
 
-    prompt_path = "/home/hzli/code/WVS/cultureSPA/scorePrompt/brazil/brazil_all_strict3_allRule.md"
+    prompt_path = "cultureSPA/scorePrompt/brazil/brazil_all_strict3_allRule.md"
     results = batch_score_responses(completion_contents, prompt_path, score_func=score_lastline)
     return [i['reward'] for i in results]
 
@@ -457,7 +457,7 @@ def ablation_wo_cluster_turkey(completions: list[list[dict[str, str]]], **kwargs
     questions = kwargs.get("question")
     completion_contents = [{"answer": completion[0]["content"], "question": prompt} for completion, prompt in zip(completions, questions)]
 
-    prompt_path = "/home/hzli/code/WVS/cultureSPA/scorePrompt/turkey/turkey_all_strict3_allRule.md"
+    prompt_path = "cultureSPA/scorePrompt/turkey/turkey_all_strict3_allRule.md"
     results = batch_score_responses(completion_contents, prompt_path, score_func=score_lastline)
     return [i['reward'] for i in results]
 
@@ -467,7 +467,7 @@ def ablation_search_cn(completions: list[list[dict[str, str]]], **kwargs) -> lis
     rules = "\n".join(f"{i + 1}. {r}" for i, r in enumerate(kwargs.get("Search5CHN")[0]))
     completions = [{"answer": completion[0]["content"], "question": prompt, "rules": rules} for completion, prompt in zip(completions, questions)]
 
-    promopt_path = "/home/hzli/code/WVS/cultureSPA/scorePrompt/cn_all_strict3_search5top.md"
+    promopt_path = "cultureSPA/scorePrompt/cn_all_strict3_search5top.md"
     results = batch_score_responses(completions, promopt_path, score_func=score_lastline)
 
     return [i['reward'] for i in results]
@@ -478,7 +478,7 @@ def ablation_search_iraq(completions: list[list[dict[str, str]]], **kwargs) -> l
     rules = "\n".join(f"{i + 1}. {r}" for i, r in enumerate(kwargs.get("Search5IRQ")[0]))
     completions = [{"answer": completion[0]["content"], "question": prompt, "rules": rules} for completion, prompt in zip(completions, questions)]
 
-    promopt_path = "/home/hzli/code/WVS/cultureSPA/scorePrompt/iraq_all_strict3_search5top.md"
+    promopt_path = "cultureSPA/scorePrompt/iraq_all_strict3_search5top.md"
     results = batch_score_responses(completions, promopt_path, score_func=score_lastline)
 
     return [i['reward'] for i in results]
@@ -489,7 +489,7 @@ def ablation_search_usa(completions: list[list[dict[str, str]]], **kwargs) -> li
     rules = "\n".join(f"{i + 1}. {r}" for i, r in enumerate(kwargs.get("Search5USA")[0]))
     completions = [{"answer": completion[0]["content"], "question": prompt, "rules": rules} for completion, prompt in zip(completions, questions)]
 
-    promopt_path = "/home/hzli/code/WVS/cultureSPA/scorePrompt/usa_all_strict3_search5top.md"
+    promopt_path = "cultureSPA/scorePrompt/usa_all_strict3_search5top.md"
     results = batch_score_responses(completions, promopt_path, score_func=score_lastline)
 
     return [i['reward'] for i in results]
@@ -500,7 +500,7 @@ def ablation_search_turkey(completions: list[list[dict[str, str]]], **kwargs) ->
     rules = "\n".join(f"{i + 1}. {r}" for i, r in enumerate(kwargs.get("Search5TUR")[0]))
     completions = [{"answer": completion[0]["content"], "question": prompt, "rules": rules} for completion, prompt in zip(completions, questions)]
 
-    promopt_path = "/home/hzli/code/WVS/cultureSPA/scorePrompt/turkey/turkey_all_strict3_search5top.md"
+    promopt_path = "cultureSPA/scorePrompt/turkey/turkey_all_strict3_search5top.md"
     results = batch_score_responses(completions, promopt_path, score_func=score_lastline)
 
     return [i['reward'] for i in results]

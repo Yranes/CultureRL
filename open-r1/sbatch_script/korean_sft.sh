@@ -15,9 +15,9 @@ source ~/miniconda3/bin/activate openr1
 conda activate openr1
 
 SUFFIX=$(date +'%Y-%m-%d_%H-%M-%S')
-YAML_PATH="/home/hzli/code/WVS/open-r1/recipes/wvs_value/korean/qwen2_5_3B_sft_korean_value.yaml"
+YAML_PATH="open-r1/recipes/wvs_value/korean/qwen2_5_3B_sft_korean_value.yaml"
 
-RUN_DIR_BASE='/home/hzli/code/WVS/open-r1/runs/Korean'
+RUN_DIR_BASE='open-r1/runs/Korean'
 RUN_NAME="sft_train_qwen2.5_korean_value_${SUFFIX}"
 RUN_DIR=${RUN_DIR_BASE}/${RUN_NAME}
 mkdir -p "${RUN_DIR}"
