@@ -7,7 +7,6 @@ ANYWHERE_API_KEY = "sk-X"
 ANYWHERE_BASE_URL = ""
 MODEL_TO_USE_FOR_EXTRACTION = "gpt-4o"
 MODEL_TO_USE_FOR_EMBEDDING = "text-embedding-3-small"
-input_file_path = 'dataprocess/concept_expand_rule.json'
 
 client = OpenAI(api_key=ANYWHERE_API_KEY, base_url=ANYWHERE_BASE_URL)
 
@@ -62,7 +61,7 @@ def write_json(file_path, s):
     with open(file_path, "w", encoding='utf-8') as f:
         json.dump(s, f, ensure_ascii=False, indent=4)
 
-def main():
+def main(input_file_path='dataprocess/concept_expand_rule.json', k=8):
     with open(input_file_path, 'r', encoding='utf-8') as f:
         all_questions = json.load(f)
     
@@ -96,7 +95,7 @@ def main():
     if embeddings:
         print("\n--- 步骤 3: 正在对概念向量进行聚类... ---")
         embedding_array = np.array(embeddings)
-        num_clusters = 8
+        num_clusters = k
         kmeans = KMeans(n_clusters=num_clusters, random_state=42, n_init='auto')
         kmeans.fit(embedding_array)
         
@@ -114,5 +113,7 @@ def main():
     else:
         print("获取向量失败，聚类中止。")
 
+from fire import Fire
+
 if __name__ == "__main__":
-    main()
+    Fire(main)

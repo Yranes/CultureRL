@@ -31,6 +31,14 @@ cd open-r1
 pip install -e ".[dev]"
 ```
 
+## 📃 Data
+
+In our paper, we use 62 World Value Survey questions as norm data to construct the Norm Pool. However, the framework is flexible — you can also use any other culturally grounded datasets or custom-designed value statements as the foundational norm data and then:
+
+```bash
+python dataprocess/cluster_embedding.py path/to/your/NormData cluster_num
+```
+
 ## 🚀 Run
 
 ### 1. Run training
