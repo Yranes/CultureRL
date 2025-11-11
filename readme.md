@@ -10,7 +10,7 @@ This is the official code repository for our AAAI 2026 paper:
 
 Ensuring that large language models (LLMs) behave consistently with diverse cultural norms is essential, yet collecting annotated data for every culture remains costly and infeasible—especially in low-resource regions.
 
-This project introduces **CultureRL (Culture-norm-driven Reinforcement Learning)**, an efficient framework that achieves cultural alignment **without requiring large-scale labeled data**. Instead, CultureRL relies on a small set of explicit cultural principles as alignment anchors to guide model behavior through reinforcement learning.  
+We introduce **CultureRL (Culture-norm-driven Reinforcement Learning)**, an efficient framework that achieves cultural alignment **without requiring large-scale labeled data**. Instead, CultureRL relies on a small set of explicit cultural principles as alignment anchors to guide model behavior through reinforcement learning.  
 
 - 🧩 **Norm Pool Construction (NPC)** clusters any available cultural norms—such as those derived from the *World Values Survey* or other sociocultural datasets—into structured semantic groups. These clusters serve as retrievable anchors that represent cultural principles at different abstraction levels.  
 - 🎯 **Norm Cluster-based Reward Mechanism (NCRM)** evaluates model outputs based on their conformity to the retrieved norm clusters, providing culture-aware feedback signals that guide policy optimization.  
