@@ -10,15 +10,11 @@
 export WANDB_API_KEY="your_wandb_api_key"
 export WANDB_BASE_URL=https://api.bandw.top
 
-source ~/miniconda3/bin/activate openr1
 
-conda activate openr1
 
 SUFFIX=$(date +'%Y-%m-%d_%H-%M-%S')
-# 根据您的要求，将上级目录修改为 'bangali'
 YAML_PATH="open-r1/recipes/wvs_value/bengali/qwen2_5_3B_sft_bangladesh_value.yaml"
 
-# 将语言目录从 Portuguese 修改为  (Bengali/孟加拉语)
 RUN_DIR_BASE='open-r1/runs/Bengali'
 RUN_NAME="sft_train_qwen2.5_bangladesh_value_${SUFFIX}"
 RUN_DIR=${RUN_DIR_BASE}/${RUN_NAME}

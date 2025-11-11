@@ -10,9 +10,7 @@
 export WANDB_API_KEY="your_wandb_api_key"
 export WANDB_BASE_URL=https://api.bandw.top
 
-source ~/miniconda3/bin/activate openr1
 
-conda activate openr1
 
 SUFFIX=$(date +'%Y-%m-%d_%H-%M-%S')
 YAML_PATH="open-r1/recipes/wvs_value/ablation/ablation_brazil_full.yaml"

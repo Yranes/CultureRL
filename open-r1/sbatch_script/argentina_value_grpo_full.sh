@@ -10,12 +10,9 @@
 export WANDB_API_KEY="your_wandb_api_key"
 export WANDB_BASE_URL=https://api.bandw.top
 
-source ~/miniconda3/bin/activate openr1
 
-conda activate openr1
 
 SUFFIX=$(date +'%Y-%m-%d_%H-%M-%S')
-# 注意：此处的路径假设您已经为阿根廷创建了相应的配置文件
 YAML_PATH="open-r1/recipes/wvs_value/argentina/qwen2_5_3B_argentina_full.yaml"
 
 RUN_DIR_BASE='open-r1/runs'
