@@ -53,7 +53,7 @@ bash open-r1/sbatch_script/country_value_grpo_full.sh
 bash open-r1/eval/country.sh /path/to/your/model
 ```
 
-## 📌 Cite
+## 📌 Citation
 If you find this repository useful, please cite our paper:
 ```
 @article{
