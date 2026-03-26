@@ -52,3 +52,20 @@ bash open-r1/sbatch_script/country_value_grpo_full.sh
 ```bash
 bash open-r1/eval/country.sh /path/to/your/model
 ```
+
+## 📌 Cite
+If you find this repository useful, please cite our paper:
+```
+@article{
+  title={CultureRL: Internalizing Cultural Principles in Large Language Models via Norm-Driven Reinforcement Learning},
+  volume={40},
+  url={https://ojs.aaai.org/index.php/AAAI/article/view/41150},
+  DOI={10.1609/aaai.v40i44.41150},
+  number={44},
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+  author={Zhao, Weixiang and Li, Haozhen and Zhao, Yanyan and Liu, Haixiao and Li, Biye and Liu, Ting and Qin, Bing},
+  year={2026},
+  month={Mar.},
+  pages={38120-38128} }
+}
+```
