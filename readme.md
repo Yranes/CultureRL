@@ -66,6 +66,6 @@ If you find this repository useful, please cite our paper:
   author={Zhao, Weixiang and Li, Haozhen and Zhao, Yanyan and Liu, Haixiao and Li, Biye and Liu, Ting and Qin, Bing},
   year={2026},
   month={Mar.},
-  pages={38120-38128} }
+  pages={38120-38128}
 }
 ```
